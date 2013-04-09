@@ -1,0 +1,3637 @@
+Dark Queen of Krynn Adventure Journal
+
+Table of Contents
+
+INTRODUCTION                             1
+IMPORTANT FEATURES                       2
+CHARACTERS AND PARTIES                   2
+PLAYER RACES                             2
+ABILITY SCORES                           3
+CHARACTER CLASSES                        4
+ALIGNMENT                                6
+OTHER ATTRIBUTES                         7
+BUILDING A SUCCESSFUL PARTY              7
+COMBAT                                   9
+COMBAT MAP                               9
+INITIATIVE                               9
+COMPUTER CONTROL                         9
+COMBAT ABILITY                           9
+ATTACKING                                10
+COMBAT MOVEMENT                          11
+COMBAT STRATEGIES                        11
+AFTER COMBAT                             12
+MAGIC                                    12
+MAGIC USERS                              12
+CLERICS                                  13
+KNIGHTS AND PALADINS                     14
+RANGERS                                  14
+TIPS ON MAGIC                            14
+MAGICAL TREASURES                        14
+CREATURES OF THE DAGONLANCE SAGA         16
+SPELL DESCRIPTIONS                       24
+JOURNAL ENTRIES                          31
+TABLES                                   49
+
+
+<IMG SRC="DQK_AJ01.GIF">
+IMPORTANT FEATURES
+
+CHARACTERS AND PARTIES
+
+You need a party of adventurer Player Characters (PCs) to play THE
+DARK QUEEN OF KRYNN. YOU must choose the following for each character:
+a race, a class, and an alignment. After you select these, the
+computer generates a set of ability scores that define your new
+character's natural strengths and weaknesses. To build a party you
+must make a mix of characters that have the range of skills needed for
+success, and then band them together.
+
+Player Races
+
+There are seven races from which you may construct player characters,
+each with different talents and limitations. Tables beginning on page
+49 summarize the racial class limitations and ability score modifiers.
+The following describes each race and tells which classes are open to
+them.
+
+Hill Dwarves are a stubborn and rough race of sturdy workers and
+craftsmen.  They are especially resistant to magic and poison. During
+combat, dwarves receive bonuses when attacking goblins or hobgoblins,
+and are adept at dodging the attacks of ogres and giants. Dwarves can
+be fighters, thieves, rangers, clerics of Reorx, or mixed classes.
+
+Mountain Dwarves are somewhat clannish and more refined than their
+Hill Dwarf cousins, otherwise they are nearly identical. Mountain
+dwarves may be fighters, paladins, thieves, clerics of Reorx, or mixed
+classes.
+
+Silvanesti Elves (High Elves) are a tall, arrogant, and long-lived
+race. They are nearly immune to sleep and charm spells, and are adept
+at finding hidden doors. During combat, elves receive bonuses when
+attacking with swords or bows. They cannot be raised from the dead.
+Silvanesti elves can be fighters, paladins, magic-users, clerics,
+rangers, and mixed classes.
+
+Qualinesti Elves are slightly smaller and friendlier than their
+Silvanesti brethren, but they have identical abilities and bonuses.
+Qualinesti elves can be fighters, rangers, magic-users, thieves,
+clerics and mixed classes.
+
+Half-Elves are hybrids, with many of the virtues of both humans and
+elves.  Like their elf ancestors, they are resistant to sleep and
+charm spells, and are adept at finding hidden doors. Half-elves can be
+fighters, knights, magic-users, clerics, thieves, rangers, and mixed
+classes.
+
+Kender are a small people characterized by an absolute lack of fear,
+and an insatiable curiosity. They are especially resistant to magic
+and poison, and have the special ability to taunt intelligent
+opponents. When kender successfully taunt, an opponent will attack in
+a mindless rage, suffering a loss of combat effectiveness. The
+preferred weapon of the kender is the hoopak, part staff-sling, part
+metal-shod staff, which only they can use.  Kender receive bonuses to
+hit with hoopaks, and are deadly accurate shots.  They can be thieves,
+fighters, rangers, clerics or mixed classes.
+
+Humans are the most common player-race in the world of Krynn. Humans
+do have the disability of shorter life-spans than the other races.
+This may be a problem if they are subjected to many haste spells,
+which age the hasted character one year. They can be fighters,
+magicusers, clerics, thieves, paladins, rangers, and knights - but not
+mixed classes.
+
+Ability Scores
+
+Every character has six randomly generated ability scores as described
+below.  These scores fall within a range determined by the race and
+class of the character. The base values range from 3 (low) to 18
+(high). There are tables of limitations, modifiers, and bonuses
+starting on page 49.
+
+Depending on the character class, one or more of these abilities will
+be a Prime Requisite. A prime requisite is an ability especially
+valuable to a given class. For example, strength is key for fighters
+and wisdom for clerics. Most characters receive bonus experience
+points when their prime requisite scores are 16 or greater. Non-human
+characters may have modifiers to the basic ability scores to reflect
+differences between the races.
+
+Dwarves for instance, get a +1 constitution bonus and may have a
+maximum constitution of 19 instead of 18. All racial modifiers are
+calculated automatically when a character is generated.
+
+Strength (STR) is the measure of a character's physical power, muscle
+mass, and stamina. Fighter-type characters (fighters, paladins, and
+rangers) may have exceptional strengths greater than 18 that are
+indicated by a percent value (01, 02, 03 . . . 98, 99, 00) following
+the base strength. High strength increases a character's combat
+ability with melee weapons, such as swords or maces. Strength also
+determines how much a character can carry without becoming encumbered
+and slowed in combat.
+
+Intelligence (INT) is the measure of how well a character can learn.
+Intelligence level determines the maximum level of spells a magic-user
+can cast.
+
+Wisdom (WIS) is the measure of a character's ability to understand the
+ways of the world and to interact with the world. Clerics receive
+bonus spells for high wisdom, and wisdom determines the maximum level
+of spells a cleric can cast.
+
+Dexterity (DEX) is the measure of a character's manual dexterity and
+agility.  Thieves especially benefit from high dexterity. Dexterity
+affects how well a character can use ranged weapons (bows, dart,
+etc.), when he moves in a combat round, and how difficult he is to hit
+in combat.
+
+Constitution (CON) is the measure of a character's overall health.
+Characters receive one extra hit point if their constitution is 15,
+and two points if it is 16. Fighter-types (fighters, rangers, knights,
+and paladins) receive additional bonuses for constitutions of 17 or
+18. A character's constitution also determines the maximum number of
+times that character can be raised from the dead with raise dead or
+resurrection spells, and the chance of a resurrection attempt being
+successful. Every time a character is successfully resurrected, I
+point of constitution is lost.
+
+Charisma (CHA) is the measure of how others react to a character.
+
+Charisma is sometimes a factor when encountering NPCs - the higher a
+character's charisma, the more that character can persuade others to
+do what he wants. The character with the highest charisma should be
+the active character when dealing with NPCs.
+
+Character Classes
+
+Classes are the characters' professions. A character must be at least
+one character class. Non-human characters can be more than one class
+at the same time. These multi-class characters have more playing
+options, but move up in levels slowly because experience is divided
+evenly among all classes.
+
+Characters receive hit points, spells, and abilities based on their
+class, level, and (sometimes) ability scores. Refer to the tables at
+the back of this journal to find the number and size of hit dice a
+character receives, and the number of spells the character can
+memorize.
+
+Clerics have spells bestowed on them by their deity and can fight
+wearing armor and using crushing (no edged or pointed) weapons. After
+selecting an alignment, clerics may only choose a deity appropriate to
+their alignment.  Each of the deities extend special abilities to
+their followers. For more information, see the "Deities" section on
+page 13. Clerics have the ability to sometimes turn away, or even
+destroy undead creatures such as skeletons or zombies. This power
+increases as the cleric increases in level. Clerics must memorize
+their spells just as magic-users, but they do not use spell books.
+When clerics gain a new spell level, they can automatically memorize
+any of the available spells for that level. The prime requisite for
+clerics is wisdom.
+
+Fighters can fight with any armor or weapons, but they cannot cast
+magic spells. All fighter-types (fighters, paladins, knights, and
+rangers) gain the ability to attack more than one time per round when
+they reach higher levels. They can also have exceptional strength,
+gaining additional hit point bonuses if they have a constitution of
+17+. The prime requisite for fighters is strength.
+
+Paladins are a type of fighter, and can fight with any armor or
+weapons.  They are resistant to spells and poison, and can turn undead
+creatures as if they were a cleric two levels below their current
+paladin level. Paladins are also always surrounded by the equivalent
+of a protection from evil 10' radius spell. Paladins may heal two hit
+points of damage per level once a day. They may cure disease once a
+week for every five levels of experience.  For example, once a week at
+1st-5th levels, twice a week at 6th-l0th levels, etc. They can use
+cleric spells when they reach 9th level, although they can never use
+clerical scrolls. They advance in spell-casting ability until 20th
+level.
+
+Paladins must be of lawful good alignment, and they will not knowingly
+adventure with any evil characters. They must have ability scores of
+at least 9 in intelligence and constitution, at least 12 in strength,
+at least 13 in wisdom, and at least 17 in charisma. The prime
+requisites for paladins are strength and wisdom.
+
+Rangers are a type of fighter, and can fight with any armor or
+weapons. They do additional damage when fighting giantclass creatures.
+Rangers must be of good alignment and have ability scores of at least
+13 in strength and intelligence, and at least 14 in wisdom and
+constitution. They can use druid spells when they reach 8th level, and
+magic-user spells when they reach 9th level. Their spellcasting
+ability advances until 17th level. Rangers can never use scrolls of
+any type. The prime requisites for rangers are strength, intelligence,
+and wisdom.
+
+Solamnic Knights are the pride of chivalric honor in the world of
+Krynn. The knights are divided into three orders: the Knights of the
+Crown, the Knights of the Sword, and the prestigious Knights of the
+Rose. All are renowned for their bravery and skill at arms. Knights
+begin the game with Solamnic Plate Mail, helm +2, long sword +2, and a
+shield +2.
+
+Knights are valuable for their leadership ability in combat. Whenever
+a party with a Knight enters combat, he makes a leadership check. If
+the check is successful all NPCs in the party come under your control
+like regular PCs.  Chance of success increases dramatically as a
+Knight rises through the three orders.
+
+If a Knight of either of the first two orders (Crown or Sword) is of
+sufficient level, and has high enough ability scores, he may petition
+the next higher order for admission. When Knights of the Sword or the
+Rose become sixth-level, they gain the ability to cast some clerical
+spells.
+
+Note: Knights receive experience bonuses for doing knightly deeds and
+not for meeting prime requisites minimums.
+
+To join the Knights of the Sword a knight must have the following
+minimum ability scores: STR 12, INT 9, WIS 13, DEX 9, CON 10.
+
+To join the Knights of the Rose a knight must have the following
+minimum ability scores: STR 15, INT 10, WIS 13, DEX 12, CON 15.
+
+Magic-Users have powerful spells, but can use no armor and few
+weapons.  They can only memorize those spells available in their
+personal spell books.  Magic-users may add entries to their spell
+books whenever they go up in level or find scrolls with spells of
+levels that they are able to scribe.  In the world of Krynn, the power
+of magic-users are divided into three orders based on alignment.  A
+magic-user s power fluctuates with the cycles of the moon that
+influences his order.  For more information on the orders and moons
+see the Magic section (page 12).  The prime requisite for magic-users
+is intelligence.
+
+Thieves have special skills for opening locks and removing traps, but
+are limited to using swords, short bows, slings, and leather armor.
+In combat they do additional damage by  back stabbing , which is
+described in the Combat section.  Starting at 10th level, thieves can
+decipher some magical writing and have a chance of casting spells from
+magic-user scrolls.  The prime requisite for thieves is dexterity.
+
+Multi-class characters are non-humans who belong to two or more
+classes at the same time.  Multi-class characters experience points
+are divided among each of the classes, even after they can no longer
+advance in one or more of those classes.  Their hit points per level
+are averaged among their classes.  Multi-class characters gain all the
+benefits of all their classes with regard to weapons and equipment.
+
+
+Alignment
+Alignment is the philosophy a character lives by, and can affect how
+NPCs and some magic items react to a character.  The possibilities
+range from believing strongly in society and altruism (lawful good) to
+being anarchistic and actively unpleasant (chaotic evil).  Alignment
+is presented in two parts: World View and Ethics.
+
+World View
+Lawful indicates that the character values the structure and rules of
+society.
+
+Neutral indicates that the character values both the individual and
+society.
+
+Chaotic indicates that the character values the individual over
+society.
+
+Ethics
+Good indicates that the character tries to act in a moral and
+upstanding manner.
+
+Neutral indicates that the character leans towards situational ethics,
+evaluating each set of circumstances.
+
+Evil indicates that the character acts without regard to others, or in
+an overly malignant manner.  Player characters cannot be evil.
+
+
+Other Attributes
+Each character also has three important values that change as the game
+goes on:  hit points, experience points, and levels.
+
+Hit Points measure the amount of damage a character can take before he
+goes unconscious.  A character s maximum hit points are based on the
+hit dice for the character s class and level, plus any adjustments for
+constitution.  A character gains a hit point bonus to each hit die if
+his constitution is over 14.
+
+Note: Dice (d) is the term used to describe the range for a randomly
+generated number.  Dice are referred to by the range they represent.
+A d6 has a range from 1 through 6, a d10 has a range from 1 through
+10.  Hit dice refers to the base range of hit points a character class
+may have.  For example, a 3rd level fighter has a base of 3 d10 hit
+dice, or 3-30 hit points.
+
+When a character takes enough damage that his hit points reach 0, he
+is unconscious.  If the character s hit points drop to anything from
+-1 to -9, he will lose 1 hit point per turn from bleeding until he is
+bandaged or dies.  If a character has -10 hit points or less, he is
+dead.  Hit points on the screen will never be displayed as less than
+0.
+
+Experience Points are a measure of what a character has learned while
+adventuring.  Characters receive experience points for actions such as
+fighting monsters, finding treasures, and successfully completing
+guests.  The computer keeps track of experience, and when characters
+earn enough, they may advance in levels.  See the Level Advancement
+Tables beginning on page 55 for experience requirements.
+
+New characters start the game with 1,000,001 EXP, which puts most
+single-class characters at about 12th level.
+
+Levels are a measure of how much a character has advanced in his
+class.  When they have enough experience points, characters may go to
+a training hall and receive the training required to increase in
+level.  Characters may only advance one level at a time.
+
+If a character has gained enough experience to go up two or more
+levels since the last time he has trained, he goes up one level, and
+lose all experience in excess of one point below the next level.
+
+Example:
+A 9th level thief enters a training hall with 375,000     experience
+points (enough for the 11th level).  He will leave as a 10th level
+thief with 220,000 experience points- one point below 11th level.
+
+Characters cannot train for new levels once they have reached the
+maximum levels allowed.
+
+Building a Successful Party
+
+Forming a strong and adaptable party is a key to success in DARK QUEEN
+OF KRYNN.  Up to six Player Characters (PCs) may be in a party-a party
+with fewer is less powerful and more likely to be eliminated by
+opponents.
+
+Include a variety of classes in a party to get a good mix of skills.
+Here are two sample parties:
+
+    Sample Party #1:
+        1 Human Knight
+        1 Human Paladin
+        1 Dwarf Ranger
+        1 Kender Cleric of Mishakal/Thief
+        1 Qualinesti Elf Cleric of Shinare/Fighter/Red Robe Mage
+        1 Silvanesti Cleric of Majere/Fighter/White Robe Mage
+
+    Sample Party #2:
+        1 Human Knight
+        1 Silvanesti Elf Cleric of Mishakal/Fighter/White Robe Mage
+        1 Half-Elf Ranger/Cleric of Majere
+        1 Qualinesti Elf Cleric of Shinare/Fighter/Red Robe Mage
+        1 Kender Cleric of
+        1 Qualinesti Elf Fighter/Red Robe Mage
+
+Why These Classes?
+Cleric/Fighter/Magic-Users are the ultimate multi-purpose character.
+A cleric/fighter/magic-user can cast both magic-user and cleric spells
+while wielding the armor and weapons of a fighter.  The main
+disadvantage of the cleric/fighter/magic-user is that, as a
+triple-class character, they advance in levels quite slowly.
+
+Fighter/Magic-Users may cast spells while wearing armor.  This split
+class can fight as well as a fighter and receives more hit points than
+a pure magic-user.  Cleric/Thieves have more hit points and a better
+armor class than pure thieves.  As a cleric, the cleric/thief can cast
+healing and support spells, allowing the character to perform double
+duty as both the party thief and additional healer.  The thief status
+permits the powerful back stab attach which is described in the Combat
+section.
+
+Clerics are essential for healing the party after engagements.  The
+most efficient way to heal is to ENCAMP and select FIX (you can issue
+this command several times while encamped).  FIX works as follows:
+
+If a cleric is in the party, all available cure spells are cast and
+automatically rememorized until all characters are healed.  If the
+party has taken more damage than clerics have cure spells, the FIX
+option may be used again.  When FIX is used, characters at the top of
+the list will be healed before the characters below them.  If a cleric
+is not in the party, hit points may be recovered through rest (1HP per
+24 hour period), potions or Temple services.
+
+Rangers normally start the game with more HP than other fighter types.
+They do extra damage versus giant monsters, and receive magic and
+druidic spells at high level.
+
+Knights are powerful fighters and there are some items that may only
+be used by them.  Knights have special leadership abilities and gain
+clerical spells at high levels.
+
+Paladins are great warriors.  In addition to their martial prowess,
+they have natural protection from evil 10 radius, healing powers, and
+they gain clerical spells.
+
+Preparation Tips
+Once the party has banded together, camp at the inn, ready equipment,
+and have all spellcasters memorize spells.  Finally, save the game
+before continuing.
+
+
+COMBAT
+Adventurers must battle their way through many dangerous foes to
+complete the adventure.  The following sections offer some more
+information and tips for combat.
+
+Combat Map
+Battle takes place on a tactical combat map that is a detailed view of
+the terrain that the party was in when the combat began.  This map is
+set up with an invisible square grid.
+
+Initiative
+Each round of combat is divided into 10 segments, and every character
+and foe acts on a specific segment based on a random initiative
+number.  Initiative is generated at the start of each combat round,
+and is modified by dexterity and random factors such as surprise.
+Characters can act on their initiative segment, or use the DELAY
+command to hold action until the end of the round.  Casting spells may
+take extra time to perform, so often a spellcaster will begin a spell
+on his segment, but the spell will not go off until a little later.
+
+Computer Control
+In combat you control the actions of PCs.  The computer controls the
+actions of monsters, NPCs and PCs set to computer control with the
+QUICK command.  If you have a Knight or paladin in your party, he may
+take control of NPCs at the start of combat by making a successful
+leadership check.  A successful leadership check puts NPCs under
+normal control for that combat.
+
+Combat Ability
+Each character s ability in combat is defined by AC, THAC0, and
+Damage.
+
+Armor Class
+A character s or monster s difficulty to be hit is represented by
+armor class (AC).  The lower the AC, the harder the target is to hit.
+AC is based on readied armor and a dexterity bonus.  Some magic items,
+such as some bracers, also help improve AC.
+
+THAC0
+The ability to hit enemies in melee or with missile fire is
+represented by THAC0.  THAC0 stands for To Hit Armor Class 0.  This is
+the number a character must roll equal to or greater than to do damage
+on a target with an AC of 0.  The lower the THAC0, the better the
+chance to hit the target.
+
+NOTE: the generation of a random number is often referred to as a
+roll .  In determining the success of an attack, the number generated
+is from 1 to 20.
+
+An attack is successful if the random number is greater than or equal
+to the attacker s THAC0 minus the target s AC.  THAC0 may be modified
+by things like range, attacking from the rear, magic weapons, and
+magic spells.
+
+Example:
+A fighter with a THAC0 of 5 attacking a monster with an AC of 3 would
+need to roll (THAC05) -(AC3) = 2+
+
+But to hit a monster with an AC of -2 he would need to roll (THAC05) -
+(AC-2) = 7+
+
+
+Damage
+Damage is the range of hit point loss the attacker inflicts and is
+based on the attacker s strength, weapon type, and any magic bonuses
+the weapon has.  The base damage for each weapon is summarized in the
+Weapons Table.
+
+Some monsters take only partial or no damage from certain weapon
+types.  Skeletons, for example, take only half damage from sharp or
+edged weapons, while some other monsters may only be damaged by
+magical weapons.
+
+Attacking
+There are two basic types of attack: Melee and Ranged (or Missile).
+The following describes each type and other rules governing combat.
+
+Melee Combat
+Melee combat is face-to-face fighting with weapons such as swords and
+maces.  Only when using melee weapons can characters receive strength
+bonuses.  Fighters can sometimes overpower several small foes during
+melee combat, and thieves have opportunities to  back stab.
+
+Ranged Combat
+Ranged combat is firing at distant enemies with weapons such as bows
+or darts.  A character with a missile weapon (bow, sling, etc.) may
+not attack when adjacent to an enemy.  Two arrows or three darts can
+be fired per turn.
+
+Multiple Attacks
+After seventh-level (eighth for rangers) all fighter-type characters
+increase the number of attacks they make with melee weapons.  The
+first increase is three attacks every two rounds, then two attacks
+every round.  See the Bonus Attacks for High Level Fighters.
+
+All of a character s attacks are taken against his first target.  If
+the first target goes down with the first attack, you can aim the
+remaining attack at another target.  Fighter-types may also sweep
+through several weak opponents in one combat round.  When a character
+sweeps he automatically attacks all of the weak opponents.
+
+Back Stabbing
+A thief back stabs if he attacks a target from exactly opposite the
+first character to attack the target.  The thief may not back stab if
+he has readied armor heavier than leather.  A back stab has a better
+chance of hitting the defender and does additional damage.
+
+Saving Throws
+Attacks such as poison or spells do not automatically have their full
+effect on a target.  Victims may get a saving throw to avoid some or
+all of the effect.  If the saving throw is successful, generally the
+target suffers either no effect or only half-damage.  Saving throws
+improve as characters gain levels.
+
+Note: some monsters have natural magic resistance which decreases the
+chance that they will be affected by spells.
+
+
+Combat Movement
+The number of squares a character can move is affected by carried
+weight, character strength, and the kind of readied armor.  A
+character s movement range is displayed on the View Screen and during
+the character s segment in combat.  Combat movement is important for
+both closing quickly with opponents (and stopping missile fire) and
+fleeing from battles that are too tough.
+
+Running Away
+A character may flee from the battlefield if he moves faster than all
+enemies, but not if he moves slower than any enemies.  A character has
+a 50% chance to move off the battlefield if he moves as fast as the
+fastest foe.
+
+Exception: if a character can reach the edge of the combat map without
+any of his opponents being able to see him, he may then flee
+successfully even though he is slower than his opponents.
+
+Returning to the Party
+A character that moves off the battlefield returns to the party after
+the flight is over.  If all active characters flee combat, any dead or
+unconscious characters are lost.  Characters that flee a combat
+receive no experience points for the battle.
+
+Combat Strategies
+To succeed in combat, a skilled player deploys his party well, casts
+effective spells before and during combat, maneuvers his characters
+into advantageous positions, and attacks using his most powerful
+characters and weapons.
+
+Deploying the Party
+When a battle begins, your party is automatically positioned based on
+the order list of the characters.  Characters near the top of the
+order are in the front lines and vulnerable to the attack.  To change
+the starting deployment, change the party order from the ALT menu
+while encamped.  Shift the heavily armored fighters up the list and
+the vulnerable magic-users and thieves toward the bottom.  Party order
+cannot be changed while in combat, although characters are free to
+move.
+
+Your party may be placed in a bad position at the start of a battle.
+Get an idea of the situation, and move the characters into better
+deployment.  Sometimes the best strategy is offensive: charging with
+fighters to close ground and stop enemy magic and missile fire.  Other
+times the best strategy is defensive: moving your characters to anchor
+their flanks on an obstacle such as a wall or tree.  Setting up behind
+a doorway that your enemies have to move through also makes for a very
+strong defensive position.  Always keep magic-users and missile
+weapons safe behind the front line.
+
+Wounded Characters
+Characters who are seriously injured should be cured or moved out of
+the front lines if possible.  Remember: if you move away from an
+adjacent enemy, he gets a free attack at your back and has an improved
+chance to hit.
+
+Stopping Ranged Attacks
+Missile weapons cannot be fired if there is an adjacent opponent.  To
+stop enemy missile fire, move someone next to the opponent.  If you
+want to fire missiles, keep away from the enemy.
+
+Exploiting Enemies Weaknesses
+Exploit your opponents weaknesses by directing attacks against
+helpless, wounded, or isolated foes.  Concentrate your attacks to
+eliminate one opponent rather than injure many (exception: enemy
+spellcasters).  A foe with one hit point remaining attacks as
+powerfully as an uninjured one.
+
+If spellcasters are hit in a round, they lose any spells they are
+preparing to cast, and cannot cast for the remainder of that round.
+Try to keep enemy spellcasters under attack every round while
+protecting your own.  After Combat If one or more characters survive
+on the battlefield at the end of combat, the bodies of unconscious or
+dead party members state with the party.  If the entire party flees
+from combat, all unconscious and dead party members are permanently
+lost.  If ALL the party members are slain, go back to your last saved
+game and try again from that point.
+
+MAGIC
+Magic is integral to THE DARK QUEEN OF KRYNN.  Magic-users and
+clerics, as well as high-level Knights, rangers, and paladins can cast
+spells.  Magic is essential to the survival of the party.  Magic-users
+cast many powerful offensive and defensive spells.  Clerics cast
+healing spells to revive wounded characters as well as both defensive
+and offensive spells.  A spell can exist in one of four forms: in a
+character s memory, in a character s spell book, on a scroll, or in a
+wand.  Memorized spells are cast with the CAST command.  Spells are
+memorized during rest while encamped.  Spells in scrolls or wands are
+cast with the USE command.
+
+Memorizing a spell takes 15 minutes of game time per spell level, plus
+a preparation period based on spell level:
+
+---------------------------------------------------------------------
+Spell Level:     1-2         3-4         5-6         7-8         9
+
+Preparation
+Time:         4hrs.         6hrs.         8hrs.         10hrs. 12hrs.
+---------------------------------------------------------------------
+
+Example:
+To memorize two 1st level spells, one 2nd level spell, and one 3rd
+level spell would take:  (6 hours preparation) + (2 * 15 min) + (1 *
+30 min) + (1 * 45 min)= 7 hours 45 min.
+
+Spells do not automatically have their full effect on their target.
+Each target of a spell may get a saving throw to avoid some or all of
+the effects of the spell.
+
+Magic-Users
+There are two orders of magic-users you can play - White Robe Mages
+and Red Robe Mages.  All good alignment magic-users are White Robe
+Mages and neutral alignment magic-users are Red Robe Mages.  Evil
+magic-users are Black Robe Mages.  The few magic-users in the world
+who do not enter an order are called Rogues and are attacked on sight
+by all of the other orders.  Magic-users keep spell information in
+their personal spell books, and may only memorize spells that are
+recorded there.  When a magic-user trains for a new level, he selects
+a new spell to add to his spell book.  A magic-user can also scribe
+spells from identified scrolls if he is of high enough level to cast
+them.  A magic-user must cast a read magic spell or have a scroll
+identified in a shop before he can scribe (or cast) from it.  The
+scroll disappears after it has been scribed or cast.
+
+
+The Moons of Krynn
+Since the creation of the world, three moons have governed the powers
+of magic in Krynn.  As the moons wax and wane, so do the powers of
+magic aligned to them.  Each moon has a different group of
+magic-users.  Magic-users of the White Robe Mages gain their power
+from Solinari the white moon, Magic-users of the Red Robe Mages are
+governed by Lunitari the red moon.  The evil Magic-users of the Black
+Robe Mages are empowered by the dark moon Nuitari.  The current
+position of the moons is displayed at the top of your computer screen
+and their effects are as follows:
+
+<IMG SRC="DQK_AJ09.GIF">
+MOONS OF KRYNN
+
+Spheres of Magic
+The magic of Krynn operates in spheres, with the different schools of
+magic-users only able to manipulate certain of them; spells castable
+by one order may not necessarily be cast by another.  The "Spell
+Parameters List" on page 52, and the "Spell Descriptions" beginning on
+page 24 detail which magic-user orders can cast each spell.
+
+Clerics
+Clerical magic requires no spell books.  All clerical spells of the
+appropriate level are always available to a cleric, the character need
+only memorize them.  Unlike magic-users, clerics can cast spells from
+scrolls without any preparation, although clerical scrolls also
+disappear after being cast.
+
+Deities
+Since the earliest days of Krynn, the wisdom of the deities has been
+brought to all the races through the efforts of the clerics, the
+mortal messengers of the will of the heavens.  As a sign of favor,
+deities bestow upon their clerics special bonuses or additional
+spells.  The following is a list of the deities of Krynn that are
+available to characters, their alignment, and clerical bonuses:
+
+Good Aligned Deities
+
+    Paladine
+    Powers: None
+    Extra Spells: protection from evil 10' radius
+
+    Majere
+    Powers: Turn undead as if cleric is two levels higher
+    Extra Spells: silence 15' radius
+
+    Kiri-Jolith
+    Powers: +1 THAC0
+    Extra Spells: detect magic
+
+    Mishakal
+    Powers: +1 die on all healing spells
+    Extra Spells: charm person, remove curse, bless
+
+
+Neutral Aligned Duties
+
+    Sirrion
+    Powers: None
+    Extra Spells: burning hands
+
+    Reorx
+    Powers: +1 THAC0 (dwarves only)
+    Extra spells: none
+
+    Shinare
+    Powers: None
+    Extra Spells: charm person
+
+* All dwarven clerics must select Reorx and therefore must be neutral.
+
+Knights and Paladins
+Knights and paladins use their clerical spells identically to clerics,
+except that they can never use clerical scrolls, even if they may not
+cast the spells.
+
+Rangers
+Rangers use magic and druidic spells.  They use magic spells
+identically to magic-users and the druidic spells as clerics use their
+magic.  Rangers can never cast spells from scrolls, even if they can
+memorize and cast the scroll spell normally.
+
+Tips on Magic
+Both clerics and magic-users may cast spells which assist the party in
+combat.  Prepatory spells, such as bless or strength, cast just before
+a tough battle can protect or strengthen characters.  Combat spells
+can be cast to damage foes during combat.  Healing spells can be cast
+either during or after combat to revive wounded comrades.
+
+Spells should be rememorized as soon as possible after they are used.
+This is most likely to happen after combat.  When in camp, have your
+spellcasters memorize spells and select REST to allow them to imprint
+the spells for later use.  Selecting REST without choosing new spells
+as they have cast since last resting.
+
+Note: Before resting, it is a good idea to save your game-especially
+after tough combats.  Also, keep at least two separate saved games at
+all times and alternate between them.  This will allow you to go back
+to a save before that last, fatal battle or to try different
+strategies at key points.
+
+MAGICAL TREASURES
+As you travel about and encounter the monsters and puzzles that stand
+between you and finishing your various guests, you will find magical
+items to help you on a treasure by casting a detect magic spell using
+the DETECT command.  To find out specifically what an item is, you
+must take it to a shop and have it identified.
+
+Some magic items are in reality cursed and can do great harm.  When a
+character readies a cursed item, a remove curse spell must be cast
+before the item can be dropped.  Some magic items, such as wands or
+scrolls, may be used only by certain classes.  Others may not work at
+all if certain other magic items are also in use.
+
+Here are some descriptions of some items that you may find.  Remember:
+Some items are very rare, and you may not find all of them in your
+adventure.
+
+Wands generally cast a set of number of a given spell (for example, 10
+fireballs or 15 magic missiles).  Only experimentation or paying to
+have them identified tells what a wand does.  The USE command allows a
+character to cast spells with a readied wand.
+
+Potions may heal wounded characters, cause them to become hastened or
+invisible, or cause any number of other effects.  The USE command
+allows a character to drink a readied potion.
+
+Scrolls carry either clerical or magic-user spells.  A magic-user may
+use SCRIBE to permanently transfer a scroll into his spell book if the
+spell is of a level that he can memorize.  Magic-users and clerics can
+both cast spells directly from scrolls with the USE command, even if
+they could not otherwise memorize the spells.  Scrolls disappear after
+they have been used or scribed.  Magic-users must cast read magic, or
+have scrolls identified in a shop before scribing or casting from
+them.  Also, thieves of 10th level or higher have a chance of casting
+spells from magic-user scrolls.
+
+Enchanted Armor and Shields are created by skilled craftsman and then
+enchanted with protective spells.  The power of the magic on these
+items varies a great deal.  Enchanted armor has the great advantage of
+offering improved protection with less encumbrance than the same type
+of mundane armor.  To use these items, ready them from the Items Menu.
+
+Enchanted Weapons come in many sizes, shapes, and potencies.
+Sometimes a weapon will add between one and five to your THAC0 and
+damage.  Some weapons may have other fantastic magical properties
+including bonuses against specific types of creatures.  Once a magic
+weapon has been readied from the Items Menu, the character has it for
+all combats.
+
+Dragonlances are powerful enchanted weapons that were created for the
+War of the Lance to combat evil dragons.  They have large bonuses
+against any foe, but are deadly when attacking dragons, where they do
+t he wielder's hit points in damage to the beast.
+
+Enchanted Adornments such as bracers, necklaces and especially rings
+are favorite objects for magical enchantment.  These items may have
+any number of magical properties.  Some items will help your AC,
+others may fire magic missiles, or offer protection from fire-based
+attacks.  Once one of these items has been readied from the Items
+Menu, a character automatically gains all of its effects.  The
+exception to this rule is that certain magical necklaces require the
+USE command to work.
+
+Enchanted Clothing can be such commonplace items as gauntlets or
+cloaks, but they are imbued with powerful enchantments.  A wide
+variety of these items are known to exist.  To use these items, READY
+them from the Items Menu.
+
+
+CREATURES OF THE DRAGONLANCE SAGA
+
+The denizens of these regions are many and varied. Here is a list of
+monsters you may encounter in your adventures. Some of these creatures
+are extremely rare, and you may never cross paths with them all.
+
+Bakali
+These lizard-men of Taladas are powerful warriors, but they are
+susceptible to extra damage from cold attacks. Bakali warlords are the
+mightiest of their kind, and they may be accompanied by evil shamans.
+
+Beholder
+Also called "eye tyrants" or spheres of many eyes, these are solitary
+horrors of great power. Each of the creature's eyes has a unique
+magical power.  Beholders are armored with tough chitinous skin.
+
+Black Pudding
+Black puddings are lurking horrors of deep caverns and dungeons. They
+are immune to damage from weapons, lightning, and cold, but take
+normal damage from fire. A black pudding can dissolve armor;
+nonmagical banded or plate mail can be dissolved in two rounds, while
+lesser armor can be dissolved in a single round. Each magical bonus on
+a suit of armor takes one additional round to dissolve.
+
+Boring Beetle
+
+These giant beetles favor rotting wood and similar organic material
+upon which to feed. They are usually found inside huge trees or unused
+underground tunnel complexes.
+
+Disir
+Disir are skulking monsters which are perpetually swathed in layers of
+poisonous slime.  The slime protects a disir from damage from fire,
+and it also afflicts a person who is hit by a disir with momentarily
+severe agony, making it difficult for the victim to attack the disir
+until the effect of the toxin is overcome.
+
+Draconian
+Draconians are special troops of the Dragon Highlords. They are
+created by corrupting the eggs of good dragons with vile sorceries.
+Because of their magical origins, all draconians are somewhat
+resistant to magic. There are six types of draconians:
+
+Aurak
+Created from the eggs of gold dragons, they attack with energy bolts,
+poisonous gas clouds, or their claws and fangs. When an aurak is
+slain, it turns into a blazing ball of attacking energy and then
+explodes.
+
+Baaz
+Made from brass dragon eggs, they are the most common of the
+draconians. When killed, baaz will turn to stone and then crumble into
+a pile of rubble. The weapon used to slay a baaz will sometimes be
+trapped in its crumbling stone corpse and pulled from the attacker's
+hand.
+
+Bozak
+These draconians were created from bronze dragon eggs and can cast
+spells in addition to attacking with their claws and fangs. Bozaks
+explode when killed.
+
+Kapak
+These draconians can be distinguished from the others by their
+poisonous venom. Frequently kapaks will lick their weapons and coat
+them with venom.  When a kapak is killed, it dissolves into a pool of
+dangerous acid.
+
+Sivak
+Sivaks are created from silver dragon eggs and are the only draconians
+that can truly fly. They are shapeshifters and are very deadly in
+combat.
+
+Traag (proto-)
+The traag draconians are among the first failed attempts to create
+draconians, a precursor to the more successful baaz. While not overtly
+tall, they are emaciated and gangly. They have sharp taloned hands,
+and crocodilelike snouts.
+
+Dragons
+These are some of the most powerful and dangerous monsters a party can
+encounter. The older and larger a dragon, the more damage it can do
+and the harder it is to kill. In addition to their awesome strength,
+dragons inspire an insidious terror called dragon fear. Many times the
+mere sight of a dragon will cause opponents to panic and flee:
+
+Amphi dragon
+These creatures, a unique crossbreed of a green dragon and a sea
+dragon, are vast toadlike inhabitants of swamps and ocean floors. They
+are most at home underwater, although they can hop about on land.
+Amphi dragons can breathe a jet of deadly acid upon their adversaries.
+
+Black Dragon
+These dragons attack by spitting streams of acid and slashing with
+razor sharp claws and fangs. Since they are extremely independent and
+only obey commands if it suits their purpose, black dragons were
+rarely used in direct assaults by the evil Dragon Highlords. They are
+more highly valued as guards.
+
+Blue Dragon
+Highly intelligent and greatly feared, these dragons exhale lightning
+bolts and attack in melee with claws and fangs. Blue dragons are more
+gregarious than many of their cousins. They obey orders and can act
+and fight together as a cohesive unit. They are loyal allies of the
+evil Dragon Highlords.
+
+Dragon, Death
+When some highly magical and intelligent dragons die, they become
+death dragons. Their will is so powerful that their dead and rotting
+bodies remain animated. They breathe a lethal cloud of gas.
+
+Green Dragon
+These dragons are notorious even among the other dragons for their
+cruel natures. They attack with a poisonous breath, and their claws
+and fangs. They will obey orders, but only from leaders whom they
+respect. Clever and subtle, green dragons prefer to use trickery and
+magic on an enemy rather than an all-out assault.
+
+Red Dragon
+Perhaps the most feared of all the evil dragons, these beasts were the
+favored assault force of the Dragon Highlord armies during the War of
+the Lance. Not usually inclined to obey orders, red dragons enjoy
+nothing more than setting cities ablaze, destroying, and looting. Red
+dragons can exhale great spouts of flame, cast magic spells, or attack
+with their claws and fangs.
+
+Sea Dragon
+The fearsome sea dragons resemble giant turtles with a dragon's head
+and tail.  They travel the deep oceans, occasionally overturning small
+vessels for sustenance and entertainment. They can breathe a cloud of
+boiling steam which is equally destructive above and below the surface
+of the sea.
+
+White Dragon
+Unique among dragons in their preference for cold climates, these
+creatures can attack with their freezing cold breath in addition to
+razor sharp claws and fangs. These are one of the smaller and less
+intelligent of the dragon species.
+
+Ettin
+These fierce creatures look like giant two-headed orcs. They have
+great strength and wield spiked clubs that inflict terrible damage in
+combat.
+
+Eye of the Deep
+Eyes of the deep are oceanic cousins of the beholder. From their large
+central eyes, they can emit a blinding ray, which will stun all
+with-in their path. Even the gaze from one of their smaller eyes can
+paralyze the largest creatures of the sea.
+
+Fire Elemental
+These elementals are conjured up from their normal habitat on the
+elemental plane of fire. They are terrible to behold and can be fierce
+opponents. They are immune to both magical and non-magical fire
+attacks.
+
+Fire Giant
+These giants are brutal and ruthless warriors who resemble huge
+dwarves and have flaming red or orange hair, and coal black skin. Some
+fire giants can use magic.
+
+Fire Minion
+These fearsome creatures are composed of living flame, most often
+taking the shape of large humanoids. They radiate intense heat and are
+healed by fire.
+
+Fireshadow
+These are terrifying creatures of the abyss which are perpetually
+wreathed in an aura of pale green fire. They are immune to fire and
+their flaming green touch can consume a victim in minutes. They can
+also cast a ray of oblivion that instantly disintegrates all in its
+path.
+
+Gas Spore
+These floating spheres resemble beholders, but are actually benign. If
+a gas spore is attacked, it often explodes.
+
+Ghast
+These creatures are humans transformed into undead monsters which feed
+on the decaying flesh of corpses. Although the transformation from
+human-form has deranged and destroyed their minds, they maintain an
+evil cunning. Their touch paralyzes humans and they exude a carrion
+stench which causes retching and nausea. The ghast is susceptible to
+cold.
+
+Giant Anemone
+These sedentary submarine monsters catch prey in their tentacles, and
+inject a paralyzing poison.  They then draw their prey in and devour
+it.
+
+Giant Squid
+The giant squids of the deep ocean can attack their prey with eight
+tentacles and a sharp beak. If a giant squid is seriously threatened,
+it will squirt a blinding cloud of sepia ink, preventing attackers
+from hindering it as it departs for safer quarters.
+
+Gorgon
+These are large, carnivorous, bull-like creatures -- protected by a
+metallic hide.  They can breathe a cloud of petrifying gas on their
+adversaries.
+
+Hydra
+These creatures are immense reptilian monsters with multiple heads.
+All of its heads must be severed before it can be slain.
+
+Iron Golem
+Fashioned in the form of stylized armor, iron golems are dangerous,
+fearless foes. They are affected only by very powerful magic weapons,
+magical electrical attacks (which slow them), and magical fire attacks
+(which heal them.)
+
+Lich
+These are undead wizards who have kept their body animated, and their
+twisted spirits intact through magic. Liches maintain the magical
+ability they possessed in life.
+
+Minotaur
+These creatures are part-man and part-bull warriors from the Blood Sea
+Islands of Krynn. They are highly intelligent and dangerous opponents.
+
+Mummy
+These are powerful undead with great strength. The mere sight of one
+has been known to paralyze a man in combat. The touch of a mummy
+causes a strange rotting disease.
+
+Purple Worm
+These are enormous carnivores that burrow straight through solid
+ground in search of small (adventurer-sized) morsels.
+
+Sahuagin
+The sahuagin are half-human, half-fish, and all evil. These marauders
+of the deep sea occasionally come ashore for brief raids to wreak
+havoc upon coastal dwellers. The mighty warriors and savage
+priestesses of the Sahuaain are fearsome foes.
+
+Salamander
+These reptilian creatures are immune to all fire-based attacks. They
+are dangerous foes because of their evil nature and their immunity to
+all but magical weapons.
+
+Sea Snake
+These snakes are venomous marine monsters which like to immobilize
+their prey with powerful toxins before swallowing the victim whole.
+
+Shambling Mound
+These huge creatures resemble animated piles of moss and slime. They
+attack with their club-like arms and can smother opponents in their
+slime. Their slimy forms are immune to fire and strengthened by
+lightning bolts.
+
+Skeleton Warrior
+These undead warriors are forced into their nightmarish states by
+powerful wizards. They are used by their controllers as bodyguards,
+servants, or workers. Clerics have no power over these undead.
+
+Spectral Minion
+These undead are the spirits of humans and demi-humans who died before
+they could fulfill powerful vows or quests. Spectral minions are often
+not evil their unfulfilled obligations are often quite noble. They can
+only be hit with magic weapons.
+
+Spectre
+These undead spirits haunt the most desolate and deserted places. They
+attack all living creatures with mindless rage, drain life levels, and
+can only be hit by magical weapons.
+
+Spiders
+These creatures are aggressive predators even when not hungry, they
+attack creatures that disturb them. These are some of the species you
+may encounter:
+
+Enormous Spider
+These spiders are poisonous, quick, and all too common hunters.
+
+Whisper Spider
+These spiders use lures and misdirection to capture their prey,
+slaying them with a deadly poisonous bite.
+
+Two Headed Troll
+Kin to both the troll and the ettin, these creatures pack twice the
+punch of smaller trolls. Luckily, two-headed trolls do not regenerate
+as fast as their weaker, single-headed cousins.
+
+Umber Hulk
+These subterranean carnivores burrow through the ground with powerful
+claws.
+
+Vampire
+These undead feed on the blood of the living. Often they are
+indistinguishable from humans, and they maintain abilities they
+possessed in life (This sometimes includes spellcasting). Vampires can
+only be hit by magical weapons.
+
+Wraith
+These evil undead spirits feed on adventurers' life essence and can
+only be hit by silver or magical weapons.
+
+Wyndlass
+These are tentacled horrors that lurk in desolate swamps and gloomy
+forests.  A powerful predator, they can easily devour an entire horse.
+Few have survived a firsthand meeting with a wyndlass.
+
+Zombie
+These are mindless, animated undead controlled by evil wizards or
+clerics.  Although they are more dangerous than skeletons, they move
+very slowly. These evil spirits' keening wail strikes fear into the
+hearts of men. They attack with a chilling touch.
+
+Zombie Minotaur
+These zombies are created from the remains of minotaurs.
+
+
+New Monsters
+
+(The following creatures are appearing for the first time in an AD&D
+computer fantasy role-playing game.)
+
+Legend:
+
+ AC: Armor Class
+ HD: Hit Dice
+ Mv: Movement
+ Int: Intelligence
+ Size: Size (M = Man Size; L = Large)
+ Align: Alignment
+    (TN = True Neutral, LE = Lawful Evil
+    NE = Neutral Evil CE = Chaotic Evil)
+ THAC0: To Hit Armor Class 0
+ Att: Number of attacks
+ Dmg: Damage
+ Spec Att: Special Attacks
+ Spec Def: Special Defenses
+ XP: Expenence Point Value
+
+
+Enchanted Aurak Draconian
+AC: -8;HD: 16; Mv: 15; Int: Genius
+Size: M; Align: LE; THAC0: -3
+Att: 2; Dmg: 4d8/4d8;
+Spec Att: Exploding, Magic; XP:16,000
+
+Enchanted draconians are deadlier forms of the draconians of Ansalon,
+their abilities enhanced by powerful sorcery. The enchanted aurak can
+cast meteor swarm, otto's irresistible dance, delayed blast fireball,
+disintegrate, and flesh to stone, once per day. Enchanted auraks go
+berserk when slain, like auraks, and do double damage when they hit
+while dying. When they finally explode, enchanted auraks do 16d8
+points of damage over the same area as a fireball.
+
+
+Enchanted Baaz Draconian
+AC: 0; HD: 9; Mv: 15; Int: High;
+Size: M; Align: CE; THAC0: 5;
+Att: 2; Dmg: 2d8/2d8;
+Spec Def: Trap Weapons; XP: 6,000
+
+Enchanted Baaz can capture weapons by turning portions of their bodies
+to stone whenever they are hit, not merely when they are killed.
+
+
+Enchanted Bozak Draconian
+AC: -4; HD: 12; Mv: 15; Int: Genius
+Size: M; Align: LE; THAC0: 1
+Att: 2; Dmg: 3d8;3d8;
+Spec Att: Explosion, Magic; XP: 11,000
+
+Enchanted Bozaks may cast cone of cold, ice storm, fire shield,
+lightning bolt, and slow, once per day. When an enchanted bozak is
+slain, it explodes into fragments, with the same effect as an ice
+storm.
+
+
+Enchanted Kapak Draconian
+AC: -2; HD: 10; Mv: 15; Int: High;
+Size: M; Align: LE; THAC0: 3
+Att: 1; Dmg: 2d10;
+Spec Att: Poison, Acid; XP: 8,000
+
+Enchanted Kapaks coat their weapons with their toxic saliva; anyone
+hit by a kapak must save versus poison at -4 or be paralyzed for 3d6
+rounds. When an enchanted kapak is slain, it dissolves into a pool of
+fuming acid which may spatter up to 10 feet in any direction.
+
+
+Enchanted Sivak Draconian
+AC: -6;HD: 14; Mv: Y4; Int: Genius;
+Size: M; Align: NE; THAC0
+Att: 3; Dmg: 2d8/2d8/4d8;
+Spec Att: Back stab, Explosion; XP: 13,000
+
+Enchanted sivaks which sneak up behind their adversaries may 'back
+stab' as thieves do. When an enchanted sivak is slain, it erupts with
+the effect of a meteor swarm.
+
+
+Enchanted Traag Draconian
+AC: 2; HD: 8; Mv: 6; Int: Average;
+Size: M; Align: CE; THAC0: 7;
+Att: Y; Dmg: 2d6/2d6; XP: 3,000
+
+Enchanted traag draconian are enhanced specimens of the first,
+experimental breed of draconians. They have no special powers.
+
+
+Greater Disir
+AC: O; HD: Y; Mv: 1 2; Int: High;
+Size: M; Align: LE; THAC0: 12;
+Att: 3; Dmg: 2d6/2d6/3d8;
+Spec Att Poison;
+Spec Def: Fire Resistance; XP: 7,000
+
+Greater disirs are close relatives of the slime-covered disir, and the two
+can frequently be found in the same horrid company.
+
+
+Greater Otyugh
+AC: O; HD: 14; Mv: 6; Int: Average;
+Size: L; Align: TN; THAC0: 7
+Att; 3; Dmg: 2d10/2d10/1d6;
+Spec Def: Immunity to Disease
+XP: 10000
+
+Mages in the Realms have found that otyughs provide excellent defense
+while disposing of useless offal. Since many mages are dissatisfied
+with what already exists, some have improved on the otyugh. Except for
+their great size and strength, greater otyughs are identical to the
+otyugh.
+
+
+Huge Bat
+AC: 2; HD: 9; Mv: 18; Int: Low;
+Size: L Align: NE; THAC0: 12;
+Att: 3; Dmg: 2d4/2d4/1d8;
+XP:1,400
+
+These are mighty cousins of the cavedwelling bat. They attack with the
+claws on their wings and a vicious bite.
+
+
+Huge Crocodile
+AC: 2; HD: 12; Mv: 12;
+Int: Animal; Size: L
+Align: TN; THAC0:
+Att: 2; Dmg: 5d6/3d10;
+XP:6,000
+
+The huge crocodiles of the marshes and fens of the Blackwater Glade
+are the largest of their kindred upon Krynn. They can attack with
+their mighty jaws and by sweeping their powerful tails with the speed
+of a striking cobra.
+
+
+SPELL DESCRIPTIONS
+
+First Level Cleric Spells
+
+Bless improves the THAC0 of friendly characters by 1.  Bless cannot
+affect characters who are adjacent to monsters when the spell is cast,
+and the spell is not cumulative.  This is a good spell to cast before
+going into combat.
+
+Cure Light Wounds heals 1-8 hit points, up to the target's normal
+maximum hit points.
+
+Detect Magic indicates which equipment or treasure items are magical.
+After casting the spell, view a character's items or take treasure
+items, and equipment or treasure preceded by an '*' is magical.
+
+Protection from Evil improves the AC and saving throws of the target
+by 2 against attackers of evil alignment.  The effects of the spell
+are not cumulative.
+
+Resist Cold halves damage from cold attacks and improves saving throws
+vs. cold attacks by 3.
+
+
+Second Level Clerical Spells
+
+Find Traps indicates the presence of traps in the party's path.
+
+Hold Person may paralyze targets of character types (human, dwarf,
+etc.).  You may aim a hold person spell at up to 3 targets (use the
+EXIT command to target fewer).
+
+Resist Fire halves damage from fire attacks and improves saving throws
+vs. fire attacks by 3.
+
+Silence 15" Radius magically dampens all sound in the area around the
+target.  The target character or monster, and all adjacent, cannot
+cast spells for the duration of the spell.
+
+Slow Poison revives a poisoned person for the duration of the spell.
+
+Snake Charm paralyzes as many hit points of snakes as the cleric has
+hit points.
+
+Spiritual Hammer creates a temporary magic hammer that is
+automatically readied.  It can be thrown and does normal hammer
+damage.  Spiritual hammers can hit monsters that may only be struck by
+magic weapons.
+
+
+Third Level Cleric Spells
+
+Cure Blindness counters the effects of cause blindness and power word
+blind
+
+Cure Disease removes the effects of disease caused by some monsters or
+cause disease.
+
+Dispel Magic removes the effects of spells that do not have specific
+counter spells.  This is the cure spell for any characters that have
+been held, slowed, or made nauseous.
+
+Prayer improves the THAC0 and saving throws of friendly characters by
+1 and reduces the THAC0 and saving throws of monsters by 1.  This is a
+good spell to cast before going into combat, but it is not cumulative.
+
+Remove Curse removes the effects of bestow curse and allows the target
+to unready magic items.
+
+
+Fourth Level Cleric Spells
+
+Cure Serious Wounds heals 3-17 hit points, up to the target's normal
+maximum hit points.
+
+Neutralize Poison counteracts all toxins and revives a poisoned
+person.
+
+Protection from Evil 10' Radius can be cast on a character or a
+monster and improves the AC and saving throws of the target and all
+adjacent friendly characters by 2 against evil attackers.  The effects
+of this spell are not cumulative.
+
+Sticks to Snakes causes a distracting mass of snakes to irritate the
+target.  The snakes will make movement and spell casting impossible
+for the duration of the spell.  Powerful creatures may ignore the
+created snakes.
+
+
+Fifth Level Cleric Spells
+
+Cure Critical Wounds heals 6-27 hit points of damage, up to a target's
+normal maximum hit points.
+
+Dispel Evil improves the target's AC by 7 versus the summoned evil
+creatures for the duration of the spell, or until the target hits a
+summoned creature.  The creature must make a saving throw when it is
+hit or be dispelled.
+
+Flame Strike allows the cleric to call a column of fire down from the
+heavens onto target.  The spell does 6-48 points of damage to any
+target that fails its saving throw.
+
+Raise Dead can bring back to life one (non-elf) character.  The
+chances for success are based on the character's constitution and how
+long the character has been dead.  The raised character will have 1
+hit point and will lose 1 point of constitution.
+
+
+Sixth Level Cleric Spells
+
+Blade Barrier creates a whirling circle of razor sharp blades.  Any
+who enter the circle suffer 8-64 points of damage.
+
+Heal cures all diseases, blindness, feeble mindedness, and all except
+1-4 of a character's full hit points.
+
+
+Seventh Level Cleric Spells
+
+Resurrection is similar to raise dead, except that it also restores
+all hit points.
+
+Restoration returns life energy stolen by energy drain or the attacks
+of such undead as weights.
+
+
+First Level Druid Spells
+
+Detect Magic indicates which equipment or treasure items are magical.
+After casting the spell, view a character's items or take treasure
+items, and equipment or treasure preceded by an '*' is magical.
+
+Entangle causes plants to grow and entwine around the feet of any
+creature in the area of effect.  Be careful not to catch allies in the
+spell area.
+
+Faerie Fire rings a targeted creature in magical light.  This spell
+will outline otherwise invisible targets and give a +2 THAC0 bonus to
+anyone attacking an affected creature.
+
+Invisibility to Animals makes the target invisible to non-magical,
+low, or non-intelligent animals.  This spell does not offer protection
+against intelligent opponents or magical creatures.
+
+
+Second Level Druid Spells
+
+Barkskin causes the target's skin to become tougher and harder to
+damage.  The tough skin improves AC by 1.  This is a good spell to
+cast before combat.
+
+Charm Person or Mammal changes the target's allegiance in combat so
+that an opponent will fight for the caster's side.  It affects
+character types (human, dwarf, etc.) and other mammals.
+
+Cure Light Wounds heals 1-8 hit points, up to the target's normal
+maximum hit points.
+
+
+Third Level Druid Spells
+
+Cure Disease removes the effects of diseases caused by some monsters
+or cause disease.
+
+Hold Animal is similar to the cleric spell hold person, except that
+only normal and giant-sized animals are affected.  This spell does not
+affect monsters or NPCs.
+
+Neutralize Poison revives a poisoned person.
+
+Protection from Fire has different effects depending on the recipient.
+If cast on the druid, the spell absorbs 12 hit points times the
+caster's level in fire damage.  The spell dissipates when the damage
+limit is reached.  If the cast on another character, the spell is
+identical to the clerical resist fire spell.
+
+
+First Level Magic-User Spells
+
+Burning Hands causes 1 hit point of fire damage per level of the
+caster.  There is no saving throw.  Usable by both Red and White Robe
+Mages.
+
+Charm Person changes the target's allegiance in combat so that an
+opponent will fight for the caster's side.  It only affects character
+types (human, dwarf, etc.).  Usable by both Red and White Robe Mages.
+
+Detect Magic indicates which equipment or treasure items are magical.
+After casting the spell, view a character's items or take treasure
+items, and equipment or treasure preceded by an '*' is magical.
+Usable by both Red and White Robe Mages.
+
+Enlarge makes the recipient larger and stronger.  The higher the
+caster's level, the greater the spell effect.  Usable by both Red and
+White Robe Mages.
+
+Friends raises the caster's charisma by 2-8 points.  It is best cast
+just before dealing with NPCs.  Usable by both Red and White Robe
+Mages.
+
+Magic Missile does 2-5 hit points per missile with no savings throw.
+A magic-user throws 1 missile for every 2 levels (1 at levels 1-2, 2
+at levels 3-4, etc.) This spell damages any single target within its
+range unless the target is magic resistant or has magical protection
+such as a shield spell.  This spell casts instantaneously.  Usable by
+both Red and White Robe Mages.
+
+Protection from Evil improves the AC and saving throws of the target
+by 2 against attackers of evil alignment.  Usable by both Red and
+White Robe Mages
+
+Read Magic allows a magic-user to ready a scroll and read it.  This is
+identical to having a scroll identified in a shop.  After casting read
+magic, a magic-user may cast any scroll spells or scribe them if they
+are appropriate for his level.  Usable by both Red and White Robe
+Mages.
+
+Shield negates enemy magic missile spells, improves the magic-user's
+saving throw, and may increase his AC.  Usable by both Red and White
+Robe Mages.
+
+Shocking Grasp does 1-8 hit points of electrical damage +1 hit point
+per level of caster.  Usable by both Red and White Robe Mages.
+
+Sleep puts 1-16 targets (depending on the size of the targets) to
+sleep with no saving throw.  For example, up to sixteen 1 hit-die
+targets can be affected.  Targets of 5 or more hit-dice are
+unaffected.  Usable by both Red and White Robe Mages.
+
+
+Second Level Magic-User Spells
+
+Detect Invisibility allows the target to spot invisible creatures.
+Usable by both Red and White Robe Mages.
+
+Invisibility makes the target invisible.  The THAC0 of melee attacks
+against invisible targets is reduced by 4, and it is impossible to aim
+ranged attacks at them.  Invisibility is dispelled when the target
+attacks or cast a spell.  Usable by both Red and White Robe Mages.
+
+Knock opens locks.  The spell will affect both magically and
+non-magically locked doors, chests, etc.  Usable by Red Robe Mages
+only.
+
+Mirror Image creates 1-4 illusionary duplicates of the magic-user to
+draw off attacks.  A duplicate user disappears when it is attacked.
+Usable by Red Robe Mages only.
+
+Ray of Enfeeblement reduces the target's strength by 25% +2% per level
+of the caster.  Usable by White Robe Mages only.
+
+Stinking Cloud paralyzes those its area of effect for 2-5 rounds.  If
+the target saves, it is not paralyzed but its nauseous and has its AC
+reduced for 2 rounds.  Usable by both Red and White Robe Mages.
+
+Strength raises the target's strength by 1-8 points depending on the
+class of the target.  Usable by Red Robe Mages only.
+
+
+Third Level Magic-User Spells
+
+Blink protects the magic-user.  The magic-user 'blinks out' after he
+acts each round.  Although the magic-user may by physically attacked
+before he acts each round, he may not be attacked after.  Usable by
+Red Mages only.
+
+Dispel Magic removes the effects of spells that do not have specific
+counter spells.  This is a recuperation spell for any characters that
+have been held, slowed or made nauseous.  Usable by White Robe Mages
+only.
+
+Fireball is a magical explosion that does 1-6 hit points of damage per
+level of the caster to all targets within its area.  If the target
+makes its saving throw, damage is halved.  Fireball is a slow-casting
+spell, and the spell's power demands that you target carefully.  Use
+the CENTER command to determine who will be in the area of effect --
+indoors the three squares in each corner will not be affected by the
+blast if the spell is targeted in the center of the screen.  Outdoors,
+the blast area is slightly smaller.  Usable by both Red and White Robe
+Mages.
+
+Haste doubles the target's movement and number of melee attacks per
+round.  Haste has a short duration, so you should wait until a fight
+is imminent to cast it.  Warning: characters age one year each time a
+haste spell is cast on them.  Usable by Red Robe Mages only.
+
+Hold Person may paralyze targets of character types (human, dwarf,
+etc.).  You may aim a hold person spell at up to 4 targets (use the
+EXIT command to target fewer).  Usable by White Robe Mages only.
+
+Invisibility, 10' Radius makes all targets adjacent to the caster
+invisible.  The THAC0 of melee attacks against invisible targets is
+reduced by 4, and it is impossible to aim ranged attacks at them.  Use
+this spell to set up a battle line while your enemies seek you out.
+Characters lose invisibility if they do anything but move.  Remember:
+some monsters can see invisible creatures.  Usable by Red Robe Mages
+only.
+
+Lightning Bolt is a magical electrical attack that does 1-6 hit points
+of damage per level of the caster to each target along its path.
+Damage is halved if the targets make their saving throw.  A lightning
+bolt is 8 squares long in a line away from the caster.  For best
+results, send the bolt down a row of opponents.  Lightning bolts also
+reflect off walls back toward the spellcaster.  Targets adjacent or
+close to a wall may be hit twice by the same bolt.  Usable by both Red
+and White Robe Mages.
+
+Protection from Evil, 10' Radius protects the target and all
+characters adjacent to the target.  The spell improves the AC and
+saving throws of those it protects by 2 against attackers of evil
+alignment.  Usable by White Robe Mages only.
+
+Protection from Normal Missiles makes the target immune to non-magical
+missiles.  Usable by White Robe Mages only.
+
+Slow affects 1 target per level of caster and halves the target's
+movement and number of melee attacks per round.  Slow can be used to
+negate a haste spell and only affects the side opposing the
+spellcaster.  Usable by Red Robe Mages only.
+
+
+Fourth Level Magic-user Spells
+
+Bestow Curse reduces the targets THAC0 and saving throws by 4.  Usable
+by White Robe Mages only.
+
+Charm Monster changes the target's allegiance in combat so it fights
+on the side of the magic-user.  The spell will work on most living
+creatures.  The spell affects 2-8 one hit-die targets, 1-4 two hit-die
+targets, 1-2 three hit-die targets, or 1 target of four or more hit
+dice.  Usable by White Robe Mages only.
+
+Confusion affects 2-16 targets, causing them to make a saving throw
+each round or stand confused, become enraged, flee in terror, or go
+berserk.  Confusion is most effective when used against a large number
+of enemies.  Usable by White Robe Mages only.
+
+Dimension Door allows the magic-user to teleport himself to another
+point on the battlefield within his line of sight and the range of the
+spell.  Magic-users can use it for quick escapes.  Fighter/magic-users
+can use dimension door to reach enemy spellcasters or ranged weapons.
+Usable by Red Robe Mages only.
+
+Fear causes all within its area to flee terror if they fail their
+saving throws.  Usable by Red Robe Mages only.
+
+Fire Shield protects the magic-user so that any creature who hits the
+caster in melee does normal damage, but takes twice that damage in
+return.  The shield may be attuned to heat attacks or cold attacks.
+The magic-user takes half damage (no damage if he makes his saving
+throw) and has his saving throw from the opposite type of attack
+improved by 2.  He takes double damage from the type of attack the
+shield is attuned to.  Usable by both Red and White Robe Mages.
+
+Fumble causes the target to become clumsy and unable to move or
+attack.  If the target makes his saving throw, his attacks and
+movement are halved.  Usable by White Robe Mages only.
+
+Ice Storm does 3-30 hit points to all targets within its area.  There
+is no saving throw.  This spell will even inflict full damage on
+opponents protected by resist cold.  Usable by both Red and White Robe
+Mages.
+
+Minor Globe of Invulnerability protects the caster from incoming
+first, second, or third level spells.  The globe is very effective
+when used in combination with fire shield.  Usable by White Robe Mages
+only.
+
+Remove Curse removes the effects of bestow curse and allows the target
+to unready cursed magic items.  Usable by White Robe Mages only.
+
+
+Fifth Level Magic-user Spells
+
+Cloud Kill is similar to the stinking cloud spell, except that its
+area of effect is larger and it kills weaker monsters.  More powerful
+monsters may be immune to the spell.  Usable by both Red and White
+Robe Mages.
+
+Cone of Cold unleashes a withering cone-shaped blast of cold.  The
+spell's range and damage increases with the caster's level.  Usable by
+both Red and White Robe Mages.
+
+Feeblemind causes targets who fail their saving throw to drop
+dramatically in intelligence and wisdom and become unable to cast
+spells.  A heal spell must be cast on the victim to recover from the
+effect.  Usable by White Robe Mages only.
+
+Fire Touch creates a blazing aura around the recipient.  This aura
+adds 2-12 points of extra fire damage to all of the recipient attacks.
+Usable by Red Robe Mages Only.
+
+Hold Monster is similar to hold person, except that it affects a wider
+variety of creatures.  Usable by White Robe Mages only.
+
+Iron Skin causes the magic-user's skin to become extremely tough and
+damage resistant.  The magic-user's AC is reduced by four.  Usable by
+Red Robe Mages Only.
+
+
+Sixth Level Magic-user Spells
+
+Death Spell kills opponents instantly and irrevocably.  The spell will
+slay a greater number of weak opponents than strong.  Usable by Red
+and White Robe Mages.
+
+Disintegrate destroys one target.  Some creatures with an innate magic
+resistance may avoid the effects of the spell, however must make a
+saving throw to survive.  Usable by Red Robe Mages only.
+
+Flesh to Stone causes the target to make a saving throw or be turned
+into stone.  Usable by Red Robe Mages Only.
+
+Globe of Invulnerability protects against 1st through 4th level
+spells.  Usable by White Robe Mages only.
+
+Stone to Flesh counters the effects of such magical creatures as the
+medusa or the spell flesh to stone.  When this spell is cast on a
+character, there is a possibility that the character will not survive
+the shock of being restored to flesh.  System shock survival is based
+on a character's constitution.  Usable by Red Robe Mages only.
+
+
+Seventh Level Magic-user Spells
+
+Delayed Blast Fireball is a more powerful version of the third level
+spell and will go through a minor globe of invulnerability.  Usable by
+both Red and White Robe Mages.
+
+Mass Invisibility is identical to the invisibility spell, except that
+it will effect several targets at once.  This can be a valuable spell
+to cast before a known encounter.  Usable by Red Robe Mages only.
+
+Power Word, Stun will cause one creature to be stunned and unable to
+think or act effectively.  The weaker the target, the longer it will
+be stunned.  Usable by both Red and White Robe Mages.
+
+
+Eighth Level Magic-User Spells
+
+Mass Charm is similar to the fourth-level spell, except that it
+affects a much larger number of targets.  Usable by White Robe Mages
+only.
+
+Mind Blank is a powerful protective spell that defends the recipient
+from all spells that attack a character's will, such as charm or
+feeblemind.  Usable by White Robe Mages only.
+
+Otto's Irresistible Dance is an enchantment that causes the target to
+be irresistibly compelled to dance a wild and frenzied jig.  The
+target's AC is reduced by 4 and it will fail all saving throws against
+magic.  Usable by White Robe Mages only.
+
+Power Word, Blind strikes a target instantly blind.  Usable by both
+Red and White Robe Mages.
+
+
+Ninth Level Magic-User Spells
+
+Meteor Swarm is a very powerful and spectacular spell, similar to a
+fireball.  When cast, four magical spheres fly from the caster's hand
+toward the target.  Anything in the spell's path receives 10-40 hit
+points of damage.  Usable by both Red and White Robe Mages.
+
+Monster Summoning calls forth one or two powerful creatures to fight
+on the side of the spell magic-user.  The creatures disappear after
+the battle.  Usable by both Red and White Robe Mages.
+
+Power Word, Kill will instantly slay one or more creatures within the
+spell's range.  The spell affects approximately 120 hit points worth
+of targets.  Usable by both the Red and White Robe Mages.
+
+
+JOURNAL ENTRIES
+
+Journal Entry 1
+The Hag's Problem
+
+"My name is Eshalla.  Not long ago, I was shopping in the Imperial
+City, just minding my own business.  All of a sudden, I looked down
+and saw this coin purse lying in the street.  I innocently picked it
+up and this brutish minotaur grabbed me by the arm and accused me of
+stealing his purse! I broke free and called him an ugly cow-faced
+spawn of a gnome.  It was all I could do! He took this quite
+personally, and roared in anger.  He signaled to a mage who was in
+attendance, and before I could run away.....poof! I am as you see me,
+a withered hag, with bad teeth, and not a friend in the world."
+
+
+Journal Entry 2
+Dragonmen Justice
+
+The elders of the dragonmen finish their council and the eldest
+approaches you.  "Your talk, no money.  Zarketh, no guide.  No money.
+You talk, no money, truth talk?" His speech is hard to understand, but
+Zarketh translates for you: "You may give witness, but you will get no
+money in return.  And they will not permit me to be guide, as I swore.
+'Let the drylanders flounder and sink,' they say."
+
+
+Journal Entry 3
+The Guard's Tale
+
+"Eons ago, before the minotaurs arrived on the shores of Kristophan
+and claimed the city for their own, my wife and I were members of
+royalty.  The minotaurs forced us into slavery, and we labored each
+day with barely enough food to survive.
+
+"With our children starving, my beloved wife stole some crusts of
+bread.  An old cow caught her and we were both quickly sentenced to an
+eternity of agony.  My wife was locked in this cell, where each day
+she perishes anew from hunger.  I was condemned to stand guard at her
+door, lest anyone try to rescue her from this misery.  The only thing
+that will break this spell is the Heart-Shaped Key, which will unlock
+the door and unite us again.  Alas, the key was hidden ages ago,
+somewhere in the depths of the Tomb."
+
+
+Journal Entry 4
+Treachery
+
+You awake with Baldrich's strange music still playing over and over in
+your heads.  All of your money is gone, as are several of your magical
+items.  Worst of all, the priceless dragon scale is nowhere to be
+found.
+
+
+Journal Entry 5
+The Elevator
+
+Looking up, you see jagged pipes and cracked walls as light trickles
+out of dozens of hallways every ten feet up.  Before you, where some
+sort of intricate platform used to be, sits a huge, hot air bag
+floating above a large basket.  Two gnomes, dressed in jackets, caps
+and white gloves, come to attention at your approach.  They awkwardly
+raise a hand to their foreheads and bid you greetings.  Tas says
+"They're kind of new at this." Other gnomes squeal, "More people to
+test the new lift!"
+
+The well dressed gnomes usher you in, then nervously climb in with
+you.  The other gnome swings a large pipe over from the wall and sets
+the end under the bag floating over your heads.  He yells, "Clear!"
+and all of the gnomes fall to the floor of the basket just as hot
+scalding steam gushes out, blasting you in the face.  The bag rises,
+and you bump and crash your way up the shaft.
+
+You hear a voice below saying "................well, if they weren't
+so tall.."
+
+
+Journal Entry 6
+Tasslehoff Burrfoot
+
+"After the War of the Lance, I was bored and someone told me about the
+marak kender, here on the Taladas.  I was curious and made my way
+over.  There was this ship and such.  But have you met the marak?
+They- they're as uninteresting as life gets.  They worry and complain
+and it's hard to believe we're even related.  Then a passing dragon
+mentioned the old elves here in Tualtin.  So I came to visit."
+
+
+Journal Entry 7
+Thenol King
+"Many come to tell me that my alliance with the draconians is a
+mistake.  They rant how the draconians have some dark purpose that
+will kill us all.  Balderdash! The power of Thenol is on the rise, and
+they will rush with us to glory.  See how carefully they guard my own
+person and Trandamere, my valued councilor, in Hawkbluff.
+
+"These same people used to tell me that the priesthood of Hith was bad
+for Thenol.  And see how wrong they were.  Since the Catacalysm, we
+have been the most resourceful and adaptable of peoples.  It is the
+great Thenolian gift."
+
+
+Journal Entry 8
+Landed
+
+You followed the monsters that landed ashore.
+They killed and they burned, but also found friends.
+In the men who bring fact to the dire Sharkmen's lore.
+
+
+Journal Entry 9
+Mirror
+
+"We have something in common now, travelers.  We are both among the
+very few to have foiled the careful plans of Raistlin Majere.  For
+that you have my grudging respect, but no less hatred, of course.
+
+"You think you have defeated me, but of course you are quite wrong.
+You are mortals; do not dare to think more than mortal thoughts, lest
+you join Raistlin.
+
+"One day you will grow old, and weak, or foolish.  Meanwhile my malice
+goes on and on, growing stronger, deeper, more subtle.  Which is why I
+propose this bargain to you."
+
+
+Journal Entry 10
+Fastillion Speaks
+
+"Hmmm, well then, I suppose it's a good thing you came after all.
+There's evil at work in Thenol to the south, you know.  Or I suppose
+you don't know and that's why you're here, isn't it? Well, yes,
+there's evil at work in Thenol, and Trandamere's probably behind it.
+He's sworn to conquer all Taladas, actually.  Never was such a nice
+guy, that Trandamere.  The draconians are up to no good, and Thenol's
+involved, no doubt about it.
+
+"The Hulderfolk might help.  Probably would in fact.  You can find
+them to the east of Trilloman.  But the price is high; the price is
+always high.  And you ought to go find the Oracle of Tengur in the
+Tombs of Kristophan.  You can't beat the Oracle for a good augury.
+And that's what you need most likely, a good augury.  I had the keys
+to the inner chambers of the Tombs here somewhere."
+
+
+Journal Entry 11
+A Saddened Captain Daenor
+
+"I kept my vow but slew Crysia in its keeping.  My heart is heavy, for
+she was all in Krynn that I had.  Forgive me, friends, for there is no
+greater torment than failure." The captain's eyes rise darkly. "Let
+these draconians beware, for vengeance lurking within my heart!"
+
+
+Journal Entry 12
+Shards
+<IMG SRC="DQK_AJ21.GIF">
+JOURNAL ENTRY 12
+
+
+No Journal Entry 13
+
+
+Journal Entry 14
+Shipwreck
+
+"One of our number spied your ship in distress and summoned others.
+We sped like arrows, but when we arrived the ship was already in
+pieces.  We pulled all the landfolk out, cast spells upon them, and
+brought them to our city Naulidis.  The ship's crew proved to be a
+superstitious lot, ill-suited to life undersea, and so we sent them
+back to Ansalon. 'Tis strange to me that they who spend their life on
+the sea should be so fearful of what is underneath it, but so it is."
+
+
+Journal Entry 15
+Staff
+
+In the Thenol state, find a staff
+Wield its power, exert its might
+Strike down the gnomes and hesitate not,
+Steel your nerve, your task is right!
+
+
+Journal Entry 16
+Void
+
+You stand upon a vast undulating plain.  It seems featureless, but as
+you look more closely, here and there, a bit of ruins juts above the
+sand.  Suddenly, on a wave of despair, all the lore you've ever heard
+about the Abyss comes flooding back into your minds.  You remember
+hearing about how whole houses, ships, and cities, doomed by pride,
+hate, or treachery, have been thrown into the Abyss.  And how those
+doomed to sojourn here, end up begging others for death, a boon that
+is seldom granted.  You recall hearing that the abishai, minions that
+dwell here, maniacally claw each other to reach the Red Gate of
+Wyrllish, where they are reincarnated as draconians.  You remember the
+immense price that the hero Huma made to banish Takhisis, creator of
+all evil, to this loathsome plane.  And finally you recall the folk
+wisdom about the Abyss: "Easy to get into.  Impossible to leave."
+
+
+Journal Entry 17
+Tremor
+
+"You may think us cowards, but we are the noblest of creatures,
+toiling under our Burden.  Because we chose not to fight Takhisis'
+battles for her during the Wars of the Lance, she struck a scale from
+the chest of Kothar, our leader, and cursed away our confidence.
+Since then, the leader of the red othlorx has had Kothar's blemish,
+and our Burden shall remain until the scale is returned.
+
+"But now the puny Thenolites invade our realm! If not for the Burden,
+we would drive them back in fear and ruin!" Tremor lowers his head.
+"It is not just.  Baldranous and the other othlorx defend us, as is
+only right, but the Burden is so great, we curse Takhisis every day!"
+As Tremor turns away, you notice a scale missing from his chest.
+
+
+Journal Entry 18
+Air Shaft
+
+The sounds echo so much they are barely recognizable.  Noises of
+machinery blend with the clash of weapons and the bellow of fire
+creatures.  Then the unmistakable shout of a kender taunting his foes
+reverberates through the shaft.  Tasslehoff Burrfoot is going into
+combat!
+
+
+Journal Entry 19
+The Draconian's Scroll
+
+"Commander Barath -
+
+You are hereby granted leave to make any and all arrangements with the
+Thenolian government necessary to acquire their full cooperation.  Do
+not concern yourself with the particulars of promises made, as we have
+no intention of fulfilling them.  Consider the Thenols a tool to be
+used and discarded when no longer useful.  Pass this information on as
+necessary to subordinates, then destroy this message." At the bottom
+of the scroll is an impressive seal.
+
+
+Journal Entry 20
+The Black Robed One
+
+The hood falls to the shoulders of the black robed figure.  The pale
+mage smiles cruelly, "I see you have received my call.  I am glad to
+see you, my fine champions.  I need your help in order to succeed with
+my plan."
+
+He casually waves a thin hand before you.  Suddenly, your vision
+begins to blur and you begin to feel dizzy. "My plan is to stop you
+before you can interfere with Her Highness' plan.  I see you will not
+be a problem.... not a problem at all."
+
+As you fall to your knees, you see the mage's face twist and stretch
+into the hideous countenance of a draconian.  As its coarse laughter
+fills the chamber, everything goes black.
+
+
+Journal Entry 21
+The Great Oracle
+
+"Centuries ago, a group of humans marched from Styrillia in search of
+a home.  Led by the great Kristophus, their trek brought them here,
+where they began construction of a city.  But soon, the Minotaurs
+arrived from far off Ansalon and claimed this land for their own.
+
+"Eragas the Brutish became the new emperor and at his side was the
+human Oracle of Tengur.  The Oracle led the emperor wisely in his
+conquests, and for this, some have called him a traitor.  That is a
+lie! The Oracle used his position to win rights for the humans and the
+other conquered races.  In exchange for his wisdom, the Minotaurs
+swore to enslave only a fraction of those whose lands they annexed.
+This is a promise that is kept to this day.
+
+"When he died, the Oracle's spirit was hidden somewhere within the
+city walls, until it could be put to good use once again."
+
+
+Journal Entry 22
+The Truth
+
+"Don't believe everything you hear," continues Lord Trandamere,
+puffing on his pipe as he relaxes on the sofa. "Fastillion's had it in
+for me since I booted him out of Thenol for counterfeiting coin of the
+realm.  He made himself a sizable fortune passing around fool's gold,
+before we wised up to his tricks.  Last I heard, he was hanging his
+hat in a lighthouse up in the League someplace, mooning after some
+mermaid doxy.  Anyway, I could use your help, controlling those
+dragonmen which are making life miserable for folks around here.
+Interested?"
+
+
+Journal Entry 23
+The Sensitive Minotaur
+
+"Superiority is clearly the right of all minotaurs.  But, do not let
+this great gift of work against you! How easy it is to belittle,
+insult, or even trample our servants.  It is indeed our right to do
+so, but it may be in our favor to show occasional restraint.
+
+"It is natural for other races to be resentful, or even to feel hatred
+toward our their betters.  These feelings may lead to inefficiency and
+sloth.  So next time, instead of flogging your human slave, try a
+gentle reprimand, or even a kind word, like, 'I am not angry at you,
+only at the result of your actions.' This will instill more confidence
+in your slave, which may actually blossom into affection towards you.
+Remember, 'a happy slave is a productive slave.'
+
+"In these modern times, we must be more sensitive to the feelings of
+those beneath us.  It may be time to put behind that old adage; 'If
+you weren't born with horns, you were born to be scorned.'"
+
+
+Journal Entry 24
+Anthela
+
+"We had been holding off the Sharkmen for months.  But then the
+draconians came.  They were well armed and organized, and the soon
+killed all who resisted.  When the fighting was over, they went north.
+They said they would breed more draconians on the shores of the Lava
+Sea.  It is a dreadful prospect.
+
+"After the draconians left, the Sharkman began forcing us to build
+boats.  Hundreds and hundreds of boats.  I don't know why they want
+the boats; it makes no sense.  We might have thrown off the yoke of
+the Sharkmen, but there are dragons in the woods to the north, and no
+one dares to oppose them.
+
+"You must not stay here! Go to the great gnome citadel of Aldinanachru
+on the northwest of the Lava Sea.  The gnomes are enemies to the
+Minions of Hiteh.  Perhaps they can stop the draconians.  I love
+Bai'or dearly, but what is the good of fighting Sharkmen if the
+draconians will soon conquer the lands? Go now and warn the gnomes.
+Do not incite the wrath of dragons to the north, or there may be no
+one left when you return.....no one left in Bai'or."
+
+
+<IMG SRC="DQK_AJ25.GIF">
+JOURNAL ENTRY 25
+
+
+Journal Entry 26
+Some Relief
+
+"And the gnomes really want to help, too.  But the King said, 'Help is
+completely out of the question at this point in time!'" Tas raises his
+head and mimics the King. "'Our own situation is a parliament of
+importance!'" Captain Daenor begins to smile and chuckle, then, as
+Tasslehoff begins stumbling around the room wiggling his head and
+crashing into things, Daenor bursts into hysterical laughter and says,
+"The good gnome peoples do not appreciate this unwarranted
+interruption in their daily schedules!"
+
+All of the past weeks of worry and frustration pour out of Daenor in
+waves of laughter.
+
+
+Journal Entry 27
+Grunschka's Oath
+
+The she-dwarf grins crookedly, as she holds the glowing Grathanitch in
+her hand. "My mother once told me, 'Every man for himself!' and my
+time has come.  The Dark Queen is dead, the draconians are all gone.
+You don't need me anymore or this either."
+
+The stone's power courses through the dwarf, filling her until she
+begins to swell. "It's mine! I feel myself growing stronger, bigger.
+Soon, I'll be unbeatable.  I could be King of the World...I mean
+Queen."
+
+
+Journal Entry 28
+Present
+
+Find the realm where Tremor is lord.
+Choose the right present to add to his hoard.
+
+
+Journal Entry 29
+Ritual Words
+
+Limene: 'We will do that instantly.'
+Bilbara: 'We politely but firmly decline.'
+Shuwara: 'We block our ears to language of that sort.'
+Holbani: 'Your humor is your greatest treasure.'
+Gebene: 'We have peace in our hearts.'
+
+
+Journal Entry 30
+First Temple
+
+The desolate valley is dominated by a towering pillar of
+rock-Hawkbluff!  Beneath the crag are assembled the shops, offices,
+and other buildings that serve those who visit the abode of Lord
+Trandamere.  For miles now, there have been a constant stream of
+zealous pilgrims traveling to the great Temple of Hith, high atop
+Hawkbluff.  And amongst them were rich and well-armed processions of
+the Lords and Senators coming to consult with the influential
+Trandamere.  But all on the road give wide berth to the undead
+legions.  Led by Hith fanatics and necromancers, they patrol here and
+all over Thenol.
+
+
+Journal Entry 31
+A Word of Warning
+
+"Let's see, here is the village of Vinlans, and to the east are the
+Sikoni Mountains.  The vast forest to the east of that is the realm of
+the Hulderfolk.  As strangers to these lands, you must be wary of
+them.  Every thief might not be of the Hulderfolk, but every
+Hulderfolk is a thief.  They are renowned for stealing wagons from
+moving caravans, horses from under riders, and even children from
+their mother's bosom.  Stay far away, else these boons I give you will
+go for naught.  You must use this key to enter the tombs of New Aurim
+through the temple.  Tell the priest that I have sent you and you have
+come to receive a special blessing."
+
+
+Journal Entry 32
+The Hideous Cavern
+
+The foul cavern is covered with mounds of filth, decay, and rotting
+corpses.  Some of these corpses are those of enormous spider and huge
+bats.  Others are of humanoid form.  The stench is overwhelming.  Torn
+and rotting flesh is mixed with something even fouler.  The only
+illumination is a pale green light which comes from all around you.
+By the light of this hideous glow, you suddenly see forms rising from
+the mounds of filth.
+
+
+Journal Entry 33
+Talhook
+
+"I woke.  Everyone was gone.  Something was wrong! I hid under the
+bed.  Soon some sea-devils came in.  One was swimming around and
+around the room, proclaiming to others where he would place his
+possessions, when he came to rule.  The others called him Lord Prince
+Talhook.  Then a sea dragon arrived! I could not understand his talk,
+but Talhook could. 'You will get your eggs back when the elves are
+under my command,' he said. 'Not before.  Obey me, or I will cook your
+progeny.' After the dragon left, the sea-devils all snickered."
+
+
+Journal Entry 34
+Friends
+
+A dragon you'll meet, more mighty than all.
+To stop its rampage, seek help from three friends:
+The black robed, the winged ones, and also the small.
+
+
+Journal Entry 35
+Palace
+
+The first thing you notice is that like the rest of New Aurim, the
+Palace is decrepit.  Pools of water stain what once were glossy marble
+floors.  Cracks web the fine stone walls.  The smell of decay is
+everywhere.  But ahead you see something solid and new.  The way is
+barred by a guard station built of hard stone and gates of cold steel.
+
+
+Journal Entry 36
+A Letter From Trandamere
+
+"It has come to my attention that the draconians being sent to their
+encampment at Hawkbluff have not been arriving.  Your report that
+younger creatures are too willful for the Thenol Army is unacceptable.
+
+"I have discussed this with Yanorak and he will accept all returned
+draconians for discipline and indoctrination.  In the interim, all of
+your warehouses, taverns, and farms should be regularly patrolled to
+collect these young draconian recruits and return them to the rear
+door of the palace.
+
+"In addition, you are to sign a squad of guards to escort each group
+of draconians to Hawkbluff to prevent them from wandering off.
+Hopefully this will greatly improve the size of draconian army."
+
+
+Journal Entry 37
+Advice
+
+"Travel north, my friends, and soon you will come upon an ancient
+lighthouse.  For eons, the light has guided sailors through the
+dangerous shoals of the Tiderun.
+
+"Legend has it that the tower is deserted, except for whatever magic
+keeps it glowing.  But I know that there is a keeper, and his wisdom
+is profound.  Seek his aid and you will be richly rewarded.  But be
+warned, strangers are not welcome in the ancient tower, and reaching
+its pinnacle may prove to be a dangerous task."
+
+
+Journal Entry 38
+Martha
+
+Davik chatters incessantly through the grill of the locked door.
+"Betray my Trandamere, will you? No you won't.  No you won't.  I'll
+show you what happens to those who try to betray my Trandamere! I
+built this place so I should know.  I should.  Yes, I should.  Now
+Martha here is very old, very nasty when she's hungry.  And I dare say
+it's been many years since she last ate.  Yes, I dare say so.  But
+that won't be the case long now, will it be Martha dear? No, not long
+at all.  Not long at all.  Ha ha! Ha ha! Ha ha! Ha ha ha ha ha!"
+
+
+Journal Entry 39
+Sensilan's Final Words
+
+Choking back tears, Daenor cradles the old man's head. "Sensilan, my
+old friend.  It's all right now, it's almost over.  Soon you'll be
+right back at the town."
+
+"Daenor, it gives me great pleasure to see your face again.  But, it
+is too late for me, I only have a few minutes left.  Oteef and I tried
+to escape, but we became lost in the labyrinth.  I pray that he has
+made it to freedom.  Daenor, have you found Crysia?"
+
+The Captain bows his head in grief. "Yes, we have found her.  She is
+with....them."
+
+Sensilan clutches his hand. "Daenor, Crysia is caught in a powerful
+charm spell.  She will flee from you and fight on the side of evil."
+The old man begins to cough violently.  He wipes the blood from his
+lips and continues, "When you find her, you must break the spell or
+she will be lost forever."
+
+The old man begins to cough again and then he is still.  His head
+slumps against Daenor's chest.  The Captain begins to sob quietly.
+
+
+Journal Entry 40
+The Bard
+
+Your first warning is the tinkling of silver bells.  Then, who should
+walk up but a fat, cheery bard, strumming a strident chord on a lyre.
+"Hello! I am Balearic.  Pleased to meet you! I was just going out to
+look for work, but then I saw you.  Perhaps I can entertain you? Oh,
+you may wonder how a mere bard can survive this swamp.  Well, I have
+some small talent for soothing the ruffled beast." With this, he
+strums another cacaphonous chord.
+
+
+Journal Entry 41
+Words
+
+The bright key opens the double door to the crypt.
+Within you will find some words you should heed.
+Then find the Book that Amrocar wrote.
+Within its pages, words you must read.
+
+
+Journal Entry 42
+The War Council
+
+The king's advisors file into the room and take their seats at the
+enormous table.  King Telemandarklosminarus IV enters, wrapped from
+head to toe in blankets. "It's fr-eep-freezing in here!" Suddenly, the
+door bursts open and Baldric storms into the room. "Friends! I come
+bearing grave news.  The draconian army is even larger than we had
+feared!"
+
+Driven by this new information, the Council agrees to a threefold
+plan.  The elite corps of gnome warriors, the Company of the Dead,
+will ride in the firefleets and attack the lower region of the Tower
+of Flame.  The gnome army, accompanied by Baldric, Tremor, and
+Tasslehoff, will march on the draconian camp to the south.  Meanwhile,
+you will ride the windships and infiltrate the Tower from the top
+balconies while the Dragons guarantee your safe entrance.
+
+Just then, a gnome bursts into the room. "The clouds over the Lava Sea
+have become the face of the dark goddess Erestem." There is no time to
+lose, the Dark Queen has descended!
+
+
+Journal Entry 43
+Barber's Gossip
+
+"Ah, your hair is long I see, but not as long as one of my recent
+customers.  You see, I cut the hair of Temple prisoners, those
+prestigious enough to get a last audience with His Lordship
+Trandamere.  Just the other day, I gave Davik the 'royal treatment,'
+so to speak.  You don't know Davik? Why, he's the architect of the
+Temple.  Quite a celebrated man until he, well, you know.  Every so
+often, His Eminent Lordship forgets how to open a secret lock or where
+a particular passage goes, and hauls Davik out of the dungeon to
+demonstrate.  Davik is a good customer; he sits still, and doesn't
+talk much.  Well, there you go, fresh as can be!"
+
+
+Journal Entry 44
+Glorius Thenol!
+
+After our army crushed the remains of the Armach invaders were
+surrounded at Neul, the famed Thenolite army successfully repulsed the
+attack by the minotaur cows and their human toadies from across the
+Drungar Frontier.  Gathering the carrion of our enemies, our beloved
+priests of Hith assembled a massive army of undead minotaurs and
+humans.  Together with specially trained servants of Hith, our forces
+destroyed two ordines of the League overrun during our advance through
+the Spindle Gap.  With the minotaurs in retreat, our armies are again
+victorious with the aid of Hith.
+
+Peace is at hand, all give thanks to Hiddukul.  You can help preserve
+the peace with a prayer at the Hith Temple.  If you're down on your
+luck, ask for a special blessing.  The Church of Hith is always
+willing to help the less fortunate.
+
+
+Journal Entry 45
+Eric Strongbond
+
+"Have you seen all the boats in our small harbor? To think that just a
+few short months ago, Bai'or was an insignificant little village.  Now
+just look at us! Why, it makes a man proud to be part of something
+like this.  Soon we'll have a boat fro every man, woman, and child in
+Bai'or, and the gods will reward us with great riches.  It just goes
+to show what can be accomplished when everyone pulls together and
+works as a team!"
+
+
+Journal Entry 46
+Fastillion
+
+"One of those opens the inner chambers of the Tombs.  That should
+help." He glances down at his models and seems lost in thought.  Then
+he looks up. "I did notice that you've been fighting beholders.  I can
+see the signs of it on your armor.  There weren't supposed to be evil
+things in my tower.  The gorgons are supposed to keep them out.  I bet
+they were working with the beholders weren't they? Hmff.  I really
+should get around to training them.  Oh well, time flies."
+
+
+Journal Entry 47
+The Mayor's Story
+
+"Thank you, thank you, kind champions.  Those monsters destroyed our
+beautiful town and then herded us on board a ship like cattle.  They
+forced Aolan, a great sailor, to steer the ship, and to sail straight
+across the ocean.  We told them there was nothing there, that they
+were mad.  Then they struck us and told us not to ask questions.
+
+"While the monsters were busy fighting among themselves, Aolan steered
+the ship onto the rocks, hoping to give us a chance to escape.  But
+fate was cruel, the ship did not sink immediately.  The monsters were
+able to drag us ashore and into these accursed caves.  As for Aolan,
+they rewarded his brave act by slitting his throat.  He died a hero.
+
+"These monsters speak freely in front of us.  They constantly complain
+about not being able to complete their great journey to the other side
+of the world.  They say the Dark Queen will be very displeased with
+them.  I hope she strikes them all dead!"
+
+"As for that wench, Crysia, I know her well.  The traitor! They chose
+her from among us, and soon we saw her caring and grooming these
+disgusting monsters.  Now they allow her to move around freely, as if
+she were one of them.  She deserves to be sent to the Abyss, where she
+can spend eternity with her consorts."
+
+
+Journal Entry 48
+The Tavern Song
+
+There was an old skeleton named Trey.
+Who comes to life when they pray.
+His handler cut down, while charging a town,
+He bounces 'gainst their wall to this day.
+
+
+Journal Entry 49
+Tear Goodbye
+
+You overhear his wife saying, "You're going to get yourself killed!
+You've never even flown one of those stupid things before! How am I
+supposed to raise our children without you?" Perkelanamord whispers,
+"If I don't go, our children may never get the chance to grow up."
+
+On that note, he abruptly turns and crashes headlong into the band
+drummer, who falls over, thumping the tuba player in the stomach with
+his mallet.  With an echoing "Pphblaaaaat-oofff," the tuba falls
+forward knocking the band leader senseless with a thud.  The leader
+falls, arms flailing for balance, and pokes the flutist in the eye
+with his stick.  Grimacing with pain, the woman bites off the end of
+her flute and swallows it, gasping and wheezing for air.  The marching
+song suddenly turns into a hideous cacophony of groans, wheezes, and
+thumps.
+
+Perkelanamord hurries away muttering, "Oops, sorry, I didn't...
+sorry," as his wife falls screaming to the ground, tears blubbering
+down her round, little face.
+
+
+Journal Entry 50
+Instructions for Preparation of Black Pudding
+
+Black pudding is considered a delicacy in the Fire Fleet, particularly
+after several months on the Boiling Sea.  As black pudding is a
+ravenous carnivore, it first must be caught, before being prepared for
+consumption.  Pages 2,976,341 through 3,123,882 of Volume LXXIII of
+Thrapskaddidlogrumpanaciouslaxzitinity's semi-authoritative study of
+monster hunting, How People Try to Catch Monsters, contain some 8,647
+methods for acquiring puddings.  Many of these techniques are not
+recommended, as they leave the black pudding in an inedible form.
+Black pudding must be kept in secure ceramic containers prior to
+cooking, to limit damage to culinary personnel.
+
+Special long-handled asbestos ladles are ideal for transporting black
+pudding from these containers to the deck of the vessel.  They are
+used also for cooking the black pudding.  Black pudding is
+traditionally cooked by immersion in boiling lava.
+(Drikulomengrabaciflatorengulixfreibie, Navigating the Burning Sea,
+page 323, column 77), although the breath of a cooperative red or gold
+dragon may be substituted in a pinch.  Four to five minutes of
+immersion per pint of black pudding is a reasonable cooking time;
+properly cooked black pudding will have a syrupy, gelatinous texture.
+Extreme care must be taken not to serve undercooked black pudding;
+catastrophic cases of indigestion may result from improper
+preparation.
+
+After removing the black pudding from the boiling lava, it must be set
+aside for about three hours, until the coating of basalt has fully
+congealed.  After chipping off the basalt, the black pudding should be
+seasoned liberally with celebdil, ground caradhras, and fanuidhol
+seeds, then served hot.  One quart of black pudding should serve two
+to three gnomes, unless they are especially hungry.  Leftover black
+pudding may be served for several weeks, although its consistency will
+suffer.
+
+
+Journal Entry 51
+The Foethumper
+
+"The Foethumper is the weapon of a minoi warrior," says Benikobawoni,
+"not as random or clumsy as a broadsword -- a complicated weapon for a
+complex era."
+
+
+<IMG SRC="DQK_AJ32.GIF">
+JOURNAL ENTRY 52
+
+
+Journal Entry 53
+Caramon's Quest
+
+"If you know where I can find Raistlin, please tell me.  I must find
+him, something has happened.  Without his help Tika will die.
+I......I couldn't go on without her, not after everything that has
+happened.  I'm sure you know where I can find my brother.  You must
+tell me!" Tears spring to the big man's eyes as he slowly unsheathes
+his sword and steps toward you.
+
+
+Journal Entry 54
+The General
+
+"It has been but a short time since you so valiantly helped us crush
+the draconian army.  Yet, such is the nature of these creatures, that
+to sever the head from the beast only invites it to grow another.  My
+emissaries have reported that some draconian scum may have survived,
+and we are again gathering to the south.  We must know if this is
+true.  Every day we wait is foolhardy, for the danger may be growing.
+
+"But, the good people of Palanthas deserve the hard-won peace they now
+enjoy.  From time to time, I still see the shadows of old fears
+fleeting across their faces.  I will not add to their troubles by
+letting this unproven rumor reach their ears.  That is why I implore
+you, brave heroes, to hasten to Caergoth, and discover what truth
+there is in these fearful reports."
+
+
+Journal Entry 55
+The Strange Dragon
+
+"I am without hope.  Sssuch a thing hasss never been done asss they
+did to me.  Cursssse them.
+
+"In the Tower of Flame they made my egg, by the Ssstone of Grathanich.
+They wanted a body for Eressstem.  A perfect body for a god to enter
+the world.  Sssso the draconiansss made me.... but I wasss flawed, a
+missstake, a failure.  Yet the foolsss continue.  They make othersss.
+Finally they will sssuccsseed, and Ssshe will enter.  Ssshe will
+become invincible.  Sssshe will rule Taladassss, and then Ssshe will
+rule the world.  Curssse them!"
+
+
+Journal Entry 56
+Fable of the Stone
+
+"The god Reorx taught the smart gnomoi art of the fogue and machine,
+pleased he be.  He taught them to some humans and not pleased he be.
+Stupid they were with their power so cursed they becamed into the
+stupid minoi soon.
+
+"But the god was good and gave a gift to King Aldinachru.  A stone he
+filled with the light and power of the big moon Luminari.  The
+Grathanich they were proud to own.
+
+"Then, the bad god Hiteh tricked some little minoi into letting the
+stone go.  It drifted and burned, wreaked havoc to the west.  So to
+punish these minoi, it was made so they must follow the stone from
+here to there.  And there was the big island, far away, where one day
+the minoi stopped to live under a mountain.  Nevermind."
+
+
+Journal Entry 57
+The Rescue
+
+The old woman's eyes light up. "You aren't monsters! You're people!
+Oh, thank Paladine! I escaped from the monsters yesterday and fled
+into these lower caves, hoping to find a way out.  But the draconians
+pale in comparison to the monsters that fill these caverns, and I was
+afraid to go further.  I found this wand and necklace on a body I
+stumbled upon.  With them I was able to send many of these foul
+creatures back to the Abyss.  If the draconians are no longer a
+threat, I'm sure I can find my way to the mouth of the cave.  There is
+a small village not far from here, and I can take refuge there.
+Farewell, my friends." She turns to leave, but then adds, "Oh, here,
+why don't you take this." She removes the necklace and hands it to
+you. "You certainly look like you can handle yourselves, but you may
+be able to use this."
+
+
+Journal Entry 58
+Tas' Final Words
+
+Tas grips your arm feebly. "This wasn't supposed to happen! I can't
+die, I have too many things to do...places to go." The kender coughs
+pitifully, and clutches his chest. "I always thought you could trust
+gnomes....they're just so trustworthy.  But....look, I .....I can see
+Flint sitting under a tree, he's calling me....  Flint....I'm
+coming...." The kender's frail body goes limp, and quickly grows cold.
+
+
+Journal Entry 59
+Captain's Story
+
+"Hundreds of draconians invaded, pillaging the town and impounding the
+entire fleet of ships.  Only those who could steer the ships were
+spared, everyone else either escaped or was slaughtered.
+
+"Once they took what they wanted, a horde of blue dragons leveled the
+buildings and incarcerated anyone trying to take refuge.  The monsters
+then sailed out to sea, leaving this village a charred ruin.
+
+"I can wait no longer! I must set sail and follow the loathsome
+beasts.  My sister, Crysia, is among those kidnapped!"
+
+
+Journal Entry 60
+Greeting From a Hith Temple Servant
+
+The man with a shaved head and loosely draped robes approaches you,
+carrying a large pointed stick in one hand and a basket of flowers in
+the other. "Hale ye travelers from afar, would ye care to donate to
+the Church of Hiddukel in exchange for a special flower?"
+
+
+Journal Entry 61
+Tasslehoff Explains
+
+"After you guys left, I had the best time with the elves.  But once,
+when we were playing hide-and-seek, I hid so well the elves could
+never find me! Then I found my new friend.  You'll like him, he's
+looking for the draconians, too.  He says we need the gnome armies and
+windships to stop these draconians, but King Teleman-something or
+other says he's much too busy to be worrying about dragons.
+
+"You see, there are two different kinds of gnomes: the smart Gnomoi,
+gnomes who do all the inventing and designing, and the fun Minoi
+gnomes, like the onles in Ansalon, who get stuck doing all the work.
+Well, the King says he doesn't want his people to be separated into
+classes anymore, so he had all the gnomes just switch jobs.  And, boy,
+are things crazy in there! And dangerous too!
+
+"Come on, I'll show you where the lift is, or, um.....was, I guess."
+
+
+Journal Entry 62
+Another
+
+I see flames and an egg and a crack and a head,
+Then another, and another, and another, and more.
+She rises up, the Queen of the Dark,
+She conquers and rules leaving only the dead.
+
+
+Journal Entry 63
+Amrocar's Book
+
+"The book is a worthless text written one hundred years ago by the
+wizard Amrocar.  Obsessed with the mysteries of the ruins in
+Blackwater Glade, it is filled with useless maps and such.
+
+"It had lain undisturbed for scores of years, when suddenly one of our
+most trusted librarians, Bovinus, was caught stealing it.  A terrible
+fight ensued.  In the end, three of our guards lay dead, and the
+librarian had disappeared along with the tome.  "That is not all.  I
+just learned that Bovinus' body has been found in an alleyway with his
+throat slit.  But, who killed him, and where is the book now?"
+
+
+<IMG SRC="DQK_AJ35.GIF">
+JOURNAL ENTRY 64
+
+
+Journal Entry 65
+Rubble
+
+Before you lies the smoldering ruins of Caergoth.  Everything is
+blasted and burned.  Once sturdy buildings are sagging and melted;
+their stone runs like candle wax.  The sickening odor of burnt carrion
+floats on the gentle breeze as vultures circle through the smoke.
+
+Then you notice the fuming pots of acid in the streets.  Draconians
+have been here.  The only consolation is that some of them paid for
+this abomination with their lives.
+
+
+Journal Entry 66
+The Grathanich
+
+You quickly retrieve the small oblong box from behind the mirror.  The
+box contains an oddly-shaped piece of gray stone, plain and unadorned,
+yet seeming to pulsate with hidden power.
+
+"The Grathanich!" gasps Tasslehoff, reaching out to the stone, "With
+this artifact we can end the threat of the Dark Queen right here -- we
+can unmake the race of draconians forever." He grasps the stone and
+holds it up to the light.  "But what fun would that be?" he continues
+with a crooked grin.  Before you can react, he drops the stone into a
+pocket and scampers off into the darkness.
+
+
+Journal Entry 67
+Flamewalls
+
+The walls of the Tower's inner core flare brightly, but there is no
+heat.  Whatever mighty spell formed these walls, holds the living
+flame trapped inside.  After a moment, you see shapes among the
+dancing flames! You realize that the walls, ceiling, and floor swarm
+with fire creatures, and that they are watching you.
+
+
+Journal Entry 68
+Othlorx
+
+"Back during the War of the Lance, Takhisis called all her dragon
+children to fight the forces of good.  But here on Taladas, many evil
+dragons refused her call.  Furious, she cursed each kind of evil
+dragon with a particular affliction.
+
+"When the forces of Takhisis stole the eggs from the good dragons,
+many traveled to Taladas to search for them.  When it was discovered
+that the eggs were on Ansalon being corrupted into draconians, many of
+the good dragons returned to Ansalon to fight in the War of the Lance.
+But not all thought it was wise to join in a human's war.  Those who
+stayed are shunned, quite unfairly, by the other good dragons.  Over
+time, we outcast dragons have learned to work together against common
+dangers.  We call ourselves 'othlorx.'"
+
+
+TABLES
+
+MAXIMUM LEVEL LIMITS BY RACE AND CLASS
+
+CLASS    HUMANS  SILV.   QUAL.    HALF    HILL      MTH.      KENDER
+                 ELVES   ELVES            ELVES     DWARVES   DWARVES
+----------------------------------------------------------------------
+Cleric     Max   Max     Max      Max     10        10        12
+Fighter    Max   10      14       9       Max       Max       5
+Paladin    Max   12      No       No      No        8         No
+Ranger     Max   Max     Max      11      8         No        5
+Knight     Max   No      No       10      No        No        No
+Magic-user Max   Max     Max      10      No        No        No
+Thief      Max   No      Max      Max     10        8         Max
+
+No:  Characters of this race cannot be of this class
+Max:  Highest Level Available in THE DARK QUEEN OF KRYNN
+
+
+RANGE OF ABILITY SCORES BY RACE
+
+ABILITY SCORE      STR       INT      WIS      DEX       CON      CHA
+------------------------------------------------------------------------
+Humans          3-18(00)*    3-18     3-18     3-18      3-18     3-18
+(Females)       3-18(50)*    3-18     3-18     3-18      3-18     3-18
+
+Silvanesti
+  Elves         3-18(75)*   10-18     6-18     7-19      6-18    12-18
+(Females)       3-16        10-18     6-18     7-19      6-18    12-18
+
+Qualinesti
+  Elves         7-18(75)*    8-18     6-18     7-19      7-18     8-18
+(Females)       3-16         8-18     6-18     7-19      7-18     8-18
+
+Hill Dwarves    9-18(99)*    3-18     3-18     3-17     14-19     3-12
+(Females)       3-17         3-18     3-18     3-17     14-19     3-12
+
+Mountain
+ Dwarves        8-18(99)*    3-18     3-18     3-17     12-19     3-16
+(Females)       3-17         3-18     3-18     3-17     12-19     3-16
+
+Half-Elves      3-18(90)*    4-18     3-18     6-18      6-18     3-18
+(Females)       3-17         4-18     3-18     6-18      6-18     3-18
+
+Kender(Both)    6-16         6-18     3-16     8-19     10-18     6-18
+
+* Maximum percentage for 18 strength for fighter type classes only
+(fighter, paladin, ranger, knight).
+
+
+ABILITY SCORE MODIFIERS BY RACE
+
+Race                  Modifiers
+---------------------------------
+Dwarf, Hill           Constitution+1, Charisma-1
+Dwarf, Mountain       Constitution+1, Charisma-1
+Elf, Qualinesti       Dexterity+1, Constitution-1
+Elf, Silvanesti       Dexterity+1, Constitution-1
+Half-Elf              None
+Human                 None
+Kender                Strength-1, Dexterity+2
+
+
+STRENGTH TABLE
+                                                      Weight Allowance
+Ability Score      THC0 Bonus    Damage Adjustment    (in steel pieces)
+-------------------------------------------------------------------------
+3                      -3               -1                  -350
+4-5                    -2               -1                  -250
+6-7                    -1               None                -150
+8-9                  Normal             None               Normal
+10-11                Normal             None               Normal
+12-13                Normal             None                +100
+14-15                Normal             None                +200
+16                   Normal             +1                  +350
+17                     +1               +1                  +500
+18                     +1               +2                  +750
+18(01-50)*             +1               +3                  +1000
+18(51-75)*             +2               +3                  +1250
+18(76-90)*             +2               +4                  +1500
+18(91-99)*             +2               +5                  +2000
+18(00)*                +3               +6                  +3000
+
+* These bonuses only available to the fighter classes (fighter,
+paladin, ranger, knight).
+
+
+DEXTERITY TABLE
+Ability Score       Reaction/Missle Bonus       AC Bonus
+----------------------------------------------------------
+ 3                           -3                     +4
+ 4                           -2                     +3
+ 5                           -1                     +2
+ 6                            0                     +1
+ 7                            0                      0
+ 8                            0                      0
+ 9                            0                      0
+ 10                           0                      0
+ 11                           0                      0
+ 12                           0                      0
+ 13                           0                      0
+ 14                           0                      0
+ 15                           0                     -1
+ 16                          +1                     -2
+ 17                          +2                     -3
+ 18                          +3                     -4
+
+
+CONSTITUTION TABLE
+
+Ability Score      Hit Point Adjustment      Resurrection Survival
+--------------------------------------------------------------------
+ 3                          -2                        40%
+ 4                          -1                        45%
+ 5                          -1                        50%
+ 6                          -1                        55%
+ 7                           0                        60%
+ 8                           0                        65%
+ 9                           0                        70%
+ 10                          0                        75%
+ 11                          0                        80%
+ 12                          0                        85%
+ 13                          0                        90%
+ 14                          0                        92%
+ 15                         +1                        94%
+ 16                         +2                        96%
+ 17                         +2(+3)*                   98%
+ 18                         +2(+4)*                   100%
+
+
+ARMOR PERMITTED BY CHARACTER CLASS
+
+Class          Max Armor           Shield
+-------------------------------------------
+Cleric           Any                Any
+Fighter          Any                Any
+Paladin          Any                Any
+Ranger           Any                Any
+Knight           Any                Any
+Magic-User       None               None
+Thief            Leather            None
+
+
+
+MULTIPLE ATTACKS FOR FIGHTER-TYPE CHARACTERS
+
+Class          Level        Attacks Per Round
+-----------------------------------------------
+Fighter         1-6                 1/1
+Paladin         1-6                 1/1
+Ranger          1-7                 1/1
+Knight          1-6                 1/1
+Fighter         7-12                3/2
+Paladin         7-12                3/2
+Ranger          8-14                3/2
+Knight          7-12                3/2
+Fighter         13+                 2/1
+Paladin         13+                 2/1
+Ranger          15+                 2/1
+Knight          13+                 2/1
+
+
+WEAPONS TABLE
+
+Name                   Damage Vs.  Damage Vs. Larger   Number of    Class
+                       Man Sized    Than Man Sized       Hands
+--------------------------------------------------------------------------
+Axe, Battle                1-8           1-8              1           f
+Axe, Hand                  1-6           1-4              1           f
+Bow, Composite Long(1)     1-6           1-6              2           f
+Bow, Composite Short(1)    1-6           1-6              2          f,th
+Bow, Long(1)               1-6           1-6              2           f
+Bow, Short(1)              1-6           1-6              2          f,th
+Club                       1-6           1-3              1        f,cl,th
+Crossbow, Light(2)         1-4           1-4              2           f
+Dagger                     1-4           1-3              1        f,mu,th
+Dart                       1-3           1-2              1        f,mu,th
+Flail                      2-7           2-8              1          f,cl
+Halberd                    1-10          2-12             2           f
+Hammer                     2-5           1-4              1          f,cl
+Hoopak(Melee)(3)           3-8           3-6              2        Special
+Hoopak(Missile)(3)         2-5           2-7              2        Special
+Javelin                    1-6           1-6              1           f
+Mace                       2-7           1-6              1          f,cl
+Morning Star               2-8           2-7              1           f
+Pick, Military             2-7           2-8              1           f
+Pike, Awl                  1-6           1-12             2           f
+Scimitar                   1-8           1-8              1          f,th
+Sling                      1-4           1-4              1          f,th
+Sling, Staff               1-8           2-8              2          f,cl
+SPear                      1-6           1-8              1           f
+Staff, Quarter             1-6           1-6              2        f,mu,cl
+Sword, Bastard             2-8           2-16             2          f,cl
+Sword, Broad               2-8           2-7              1          f,th
+Sword, Long                1-8           1-12             1          f,th
+Sword, Short               1-6           1-8              1          f,th
+Sword, 2-Handed            1-10          3-18             2           f
+Trident                    2-7           3-12             1           f
+
+1 - Must have ready arrows to fire.  Two attacks per round.
+2 - Must have readu bolts to fire.  one attack per round.
+3 - Only usable by kender characters.
+
+f=fighter(paladin,ranger,knight) ; cl=cleric ; th=thief ; mu=magic-user
+
+ARMOR TABLE
+Armor Type         Weight in Sp.     Ac      Maximum Movement(1)
+------------------------------------------------------------------
+None                     0           10        12 Squares
+Shield(2)               50            9             -
+Leather                150            8        12 Squares
+Padded                 100            8         9 Squares
+Studded                200            7         9 Squares
+Ring Mail              250            7         9 Squares
+Scale Mail             400            6         6 Squares
+Chain Mail             300            5         9 Squares
+Elfin Chain Mail       150            5        12 Squares
+Banded                 350            4         9 Squares
+Spling Mail            400            4         6 Squares
+Plate                  450            3         6 Squares
+
+1 - A character carrying many objects, including a large number of
+coins, can be limited in movement to a minimum of 3 squares per turn.
+2 - A shield subtracts 1 AC from any armor it is used with.
+
+
+SPELL PARAMETERS LIST
+
+This is a listing of spells available to player characters as they
+gain in level.  The following are abbreviations used in the list.
+
+Cmbt = Combat only spell                    r = combat rounds
+Camp = Camp only spell                      t = turns
+Both = Camp or Combat spell              /lvl = per level of caster
+   T = Touch Range                    targets = aim at each target
+ dia = diameter                      ROBE(Magic-user spells only):
+   s = squares                          WHITE = White Robe Mages
+   c = cone                               RED = Red Robe Mages
+ All = All characters in combat          BOTH = Can be cast by both
+
+
+
+FIRST LEVEL CLERICAL SPELLS
+
+Spell Name              When    Rng    Area    Duration
+---------------------------------------------------------
+Bless                   Both     6     5 dia.    6r
+Cure Light Wounds       Both     T       1       -
+Detect Magic            Both     0       1       1t
+Protection from Evil    Both     T       1       3r/lvl
+Resist Cold             Both     T       1       1t/lvl
+
+
+SECOND LEVEL CLERICAL SPELLS
+
+Spell Name              When    Rng    Area    Duration
+---------------------------------------------------------
+Find Traps              Camp     3      1       3t
+Hold Person             Cmbt     6      1-3     4r+1/lvl
+Resist Fire             Both     T      1       1t/lvl
+Silence 15' Radius      Cmbt     12     3 dia   2r/lvl
+Slow Poison             Both     T      1       1 hour/lvl
+Snake Charm             Cmbt     3      All     5-8r
+Spiritual Hammer        Cmbt     3      1       1r/lvl
+
+
+THIRD LEVEL CLERICAL SPELLS
+
+Spell Name              When    Rng    Area    Duration
+---------------------------------------------------------
+Cure Blindness          Both     T      1       -
+Cure Disease            Camp     T      1       -
+Dispel Magic            Both     6      3x3s    -
+Prayer                  Both     0      All     1r/lvl
+Remove Curse            Both     T      1       -
+
+
+FOURTH LEVEL CLERICAL SPELLS
+
+Spell Name              When    Rng    Area    Duration
+---------------------------------------------------------
+Cure Serious Wounds     Both     T      1       -
+Neutralize Poison       Both     T      1       -
+Protection from
+  Evil 10' Radius       Both     T      2dia    1t/lvl
+Sticks to Snakes        Cmbt     3      1       2r/lvl
+
+
+FIFTH LEVEL CLERICAL SPELLS
+
+Spell Name              When    Rng    Area    Duration
+---------------------------------------------------------
+Cure Critical Wounds    Both     T      1        -
+Dispel Evil             Cmbt     T      1        1t/lvl
+Flame Strike            Cmbt     6      1        -
+Raise Dead              Camp     3      1        -
+
+
+SIXTH LEVEL CLERICAL SPELLS
+
+Spell Name              When    Rng    Area    Duration
+---------------------------------------------------------
+Blade Barrier           Cmbt     3    Special   3t/lcl
+Heal                    Both     T      1       -
+
+
+SEVENTH LEVEL CLERICAL SPELLS
+
+Spell Name              When    Rng    Area    Duration
+---------------------------------------------------------
+Resurrection            Camp     T      1       -
+Restoration             Camp     T      1       -
+
+
+FIRST LEVEL DRUID SPELLS
+For High-Level Rangers
+
+Spell Name              When    Rng    Area    Duration
+---------------------------------------------------------
+Detect Magic            Both     0      1       12r
+Entagle                 Cmbt     8      4dia    1t
+Faerie Fire             Cmbt     8      8dia    4r/lvl
+Invisibility to Animals Both     T      1       1t+1r/lvl
+
+
+SECOND LEVEL DRUID SPELLS
+For High-Level Rangers
+
+Spell Name              When    Rng    Area    Duration
+---------------------------------------------------------
+Barkskin                Both     T      1       4r+1r/lvl
+Charm Person/Mammal     Cmbt     8      1       Special
+Cure Light Wounds       Both     T      1       -
+
+
+THIRD LEVEL DRUID SPELLS
+For High-Level Rangers
+
+Spell Name              When    Rng    Area    Duration
+---------------------------------------------------------
+Cure Disease            Camp     T      1       -
+Hold Animal             Cmbt     8      1-4     2r/lvl
+Neutralize Poison       Both     T      1       -
+Protection from Fire    Both     T      1       Special
+
+
+FIRST LEVEL MAGIC-USER SPELLS
+
+Spell Name              When    Rng    Area    Duration   Robe
+----------------------------------------------------------------
+Burning Hands           Cmbt     T      3s      -         Both
+Charm Person            Cmbt     12     1       -         Both
+Detect Magic            Both     6      1       2r/lvl    Both
+Enlarge                 Both   .5/lvl   1       1t/lvl    Both
+Reduce                  Both   .5/lvl   1       -         Both
+Friends                 Cmbt     0      All     1r/lvl    Both
+Magic Missile           Cmbt    6+lvl   1       -         Both
+Protection from Evil    Both     T      1       2r/lvl    Both
+Read Magic              Camp     0      1       2r/lvl    Both
+Shield                  Cmbt     0      1       5r/lvl    Both
+Shocking Grasp          Cmbt     T      1       -         Both
+Sleep                   Cmbt    3+lvl  1-16     5r/lvl    Both
+
+
+SECOND LEVEL MAGIC-USER SPELLS
+
+Spell Name              When    Rng    Area    Duration   Robe
+----------------------------------------------------------------
+Detect Invisibility     Both   1/lvl    1       5r/lvl    Both
+Invisibility            Both     T      1       Special   Red
+Knock                   Camp     6     1s/lvl   -         Red
+Mirror Image            Both     0      1       2r/lvl    Red
+Ray of Enfeeblement     Cmbt 1+.25/lvl  1       1r/lvl    White
+Stinking Cloud          Cmbt     3     2x2s     1r/lvl    Both
+Strength                Both     T      1       6t/lvl    Red
+
+
+THIRD LEVEL MAGIC-USER SPELLS
+
+Spell Name              When    Rng    Area    Duration   Robe
+----------------------------------------------------------------
+Blink                   Both     0      1       1r/lvl    Red
+Dispel Magic            Both     12    3x3s      -        White
+Fireball                Cmbt   10+lvl  5/7dia    -        Both
+Haste                   Both     6     4x4s     3r+1/lvl  Red
+Hold Person             Cmbt     12    1-4      2r/vl     White
+Invisibility
+  10' Radius            Both     T     2dia     Special   Red
+Lightning Bolt          Cmbt    4+lvl  4,8       -        Both
+Pretection from Evil
+  10' Radius            Both     T     2dia     2r/lvl    White
+Protection from
+  Normal Missiles       Both     T      1       1t/lvl    White
+Slow                    Cmbt    9+lvl  4x4s     3r+1/lvl  Red
+
+
+FOURTH LEVEL MAGIC-USER SPELLS
+
+Spell Name              When    Rng    Area    Duration   Robe
+----------------------------------------------------------------
+Bestow Curse            Cmbt     T      1       1t/lvl    White
+Charm Monster           Cmbt     6      1       Special   White
+Confusion               Cmbt     12    2-16     2r+1/lvl  White
+Dimension Door          Cmbt     0      1        -        Red
+Fear                    Cmbt     0     6x3c     1r/lvl    Red
+Fire Shield(2 types)    Both     0      1       2r+1/lvl  Both
+Fumble                  Cmbt    1/lvl   1       1r/lvl    White
+Ice Storm(Dmg only)     Cmbt    1/lvl  4dia      -        Both
+Minor Globe
+  of Invulnerability    Both     0      1       1r/lvl    White
+Remove Curse            Both     T      1        -        White
+
+
+
+FIFTH LEVEL MAGIC-USER SPELLS
+
+Spell Name              When    Rng    Area    Duration   Robe
+----------------------------------------------------------------
+Cloud Kill              Cmbt     1     3x3s     1r/lvl    White
+Cone of Cold            Cmbt     0    .5/lvl c  -         Both
+Feeblemind              Cmbt    1/lvl   1       -         White
+Fire Touch              Both     T     Special  1r/lvl    Red
+Hold Monster            Cmbt   .5/lvl   1-4     1r/lvl    White
+Iron Skin               Both     0     Special  1r/lvl    Red
+
+
+
+SIXTH LEVEL MAGIC-USER SPELLS
+
+Spell Name              When    Rng    Area    Duration   Robe
+----------------------------------------------------------------
+Death Spell             Cmbt     1     .5/lvl   -         Both
+Disintegrate            Cmbt   .5/lvl  Special  -         Red
+Flesh to Stone          Cmbt    1/lvl   1       -         Red
+Globe of
+  Invulnerability       Both     0      1       1r/lvl    White
+Stone to Flesh          Both    1/lvl   1       -         Red
+
+
+
+SEVENTH LEVEL MAGIC-USER SPELLS
+
+Spell Name              When    Rng    Area    Duration   Robe
+----------------------------------------------------------------
+Delayed Blast
+  Fire Ball             Cmbt  10+1/lvl 5/7dia   Special   Both
+Mass Invisibility       Both    1/lvl  Special  Special   Red
+Power Word, Stun        Cmbt   .5/lvl   1       Special   Both
+
+
+EIGHTH LEVEL MAGIC-USER SPELLS
+
+Spell Name              When    Rng    Area    Duration   Robe
+----------------------------------------------------------------
+Mass Charm              Cmbt   .5/lvl Special   Special   White
+Mind Blank              Both     3      1       1 day     White
+Otto's Irresistable
+  Dance                 Cmbt     T      1       2-5r      White
+Power Word, Blind       Cmbt   .5/lvl  3dia     Special   Both
+
+
+NINTH LEVEL MAGIC-USER SPELLS
+
+Spell Name              When    Rng    Area    Duration   Robe
+----------------------------------------------------------------
+Meteor Swarm            Cmbt  4+1/lvl Special   -         Both
+Monster Summoning       Cmbt     0    Special   Special   Both
+Power Word, Kill        Cmbt  .25/lvl Special   -         Both
+
+
+LEVEL ADVANCEMENT TABLES
+
+The following charts show the amount of experience a character must
+earn in order to gain a level in his character class.  The charts also
+list the number of spells that a character can have memorized at one
+time.  Fighters and Thieves can never memorize spells.
+
+Remember that all experience earned by a non-human, multiple-class
+character is divided by the number of classes the character has.  The
+experience is divided even after the character has reached his maximum
+level in a particular class.
+
+
+CLERIC OF GOOD
+
+Level       Experience        Dice
+------------------------------------
+ 1          2,000-3,999        2d8
+ 2          4,000-7,499        3d8
+ 3          7,500-15,249       4d8
+ 4          15,250-24,999      5d8
+ 5          25,000-39,999      6d8
+ 6          40,000-89,999      7d8
+ 7          90,000-159,999     8d8
+ 8          160,000-249,999    9d8
+
+Each level after 8th requires 250,000 experience points and the
+character gains 1 hit point.
+
+
+NUMBER OF CLERICAL SPELLS PER LEVEL
+
+Level       1   2   3   4   5   6   7
+---------------------------------------
+ 1          1   -   -   -   -   -   -
+ 2          2   -   -   -   -   -   -
+ 3          2   1   -   -   -   -   -
+ 4          2   2   -   -   -   -   -
+ 5          3   3   1   -   -   -   -
+ 6          3   3   2   -   -   -   -
+ 7          3   3   2   1   -   -   -
+ 8          3   3   3   2   -   -   -
+ 9          4   4   3   2   1   -   -
+10          4   4   3   3   2   -   -
+11          5   4   4   3   2   1(1)-
+12          6   5   5   3   2   2   -
+13          6   6   6   4   2   2   -
+14          6   6   6   5   3   2   -
+15          7   7   7   5   4   2   -
+16          7   7   7   6   5   3   1(2)
+17          8   8   8   6   5   3   1
+18          8   8   8   7   6   4   2
+19          9   9   9   7   6   4   2
+20          9   9   9   8   7   5   2
+21          9   9   9   9   8   6   2
+22          9   9   9   9   9   6   3
+23          9   9   9   9   9   7   3
+24          9   9   9   9   9   8   3
+25          9   9   9   9   9   8   4
+26          9   9   9   9   9   9   4
+27          9   9   9   9   9   9   5
+28          9   9   9   9   9   9   6
+29          9   9   9   9   9   9   7
+
+   1 - Usable only with 17+ wisdom.
+   2 - Usable only with 18+ wisdom.
+
+
+CLERIC OF NEUTRALITY
+
+Level       Experience        Dice
+------------------------------------
+ 1          1,500-2,999        1d8
+ 2          3,000-5,999        2d8
+ 3          6,000-12,999       3d8
+ 4          13,000-27,999      4d8
+ 5          27,500-54,999      5d8
+ 6          55,000-109,999     6d8
+ 7          110,000-224,999    7d8
+ 8          225,000-449,999    8d8
+ 9          450,000-674,999    9d8
+
+Each level after 9th requires 225,000 experience points and the
+character gains 1 hit point.
+
+
+
+NUMBER OF CLERICAL SPELLS PER LEVEL
+
+Level       1   2   3   4   5   6   7
+---------------------------------------
+ 1          2   -   -   -   -   -   -
+ 2          2   1   -   -   -   -   -
+ 3          2   2   1   -   -   -   -
+ 4          4   2   2   -   -   -   -
+ 5          4   3   2   -   -   -   -
+ 6          4   3   2   1   -   -   -
+ 7          4   4   3   1   -   -   -
+ 8          4   4   3   2   -   -   -
+ 9          5   4   3   2   1   -   -
+10          5   4   3   3   2   -   -
+11          5   5   3   3   2   1(1)-
+12          5   5   4   4   3   2   1(2)
+13          6   5   5   4   3   2   1
+14          6   6   6   6   4   2   1
+15          6   6   6   6   4   3   1
+16          6   6   6   6   5   4   1
+17          7   6   6   6   5   4   2
+18          7   6   6   6   5   4   3
+19          7   7   6   6   5   5   3
+20          7   7   6   7   6   5   3
+21          8   7   7   7   6   5   4
+22          8   8   7   7   7   5   4
+23          8   8   7   7   7   6   4
+24          8   8   7   7   7   7   4
+25          8   8   8   8   7   7   5
+26          8   8   8   8   8   8   5
+27          8   8   8   8   8   8   6
+28          8   8   8   8   8   8   7
+29          8   8   8   8   8   8   8
+
+   1 - Usable only with 17+ wisdom.
+   2 - Usable only with 18+ wisdom
+
+
+CLERIC'S BONUS SPELLS
+
+Wisdom      1   2   3   4
+---------------------------
+ 9-12       -   -   -   -
+ 13         1   -   -   -
+ 14         2   -   -   -
+ 15         2   1   -   -
+ 16         2   2   -   -
+ 17         2   2   1   -
+ 18         2   2   1   1
+
+Note that these bonus spells are only available when the cleric is
+entitled to spells of the applicable level.  Thus a 12th level cleric
+with a Wisdom of 18 can memorize the following spells:
+
+
+                              Number of Spells
+                          1   2   3   4   5   6   7
+-----------------------------------------------------
+12th level Cleric
+of Good with 18 Wisdom    8   7   6   4   2   2   -
+
+
+FIGHTER
+
+Level       Experience         Hit Dice
+----------------------------------------_
+ 1          0-2,000             1d10
+ 2          2,001-4,000         2d10
+ 3          4,001-8,000         3d10
+ 4          8,001-18,000        4d10
+ 5          18,001-35,000       5d10
+ 6          35,001-70,000       6d10
+ 7          70,001-125,000      7d10
+ 8          125,001-250,000     8d10
+ 9          250,001-500,000     9d10
+
+Each level after 9th requires 250,000 experience points, and the
+character gains 3 hit points.
+
+
+THIEF
+
+Level       Experience         Hit Dice
+----------------------------------------
+  1         0-1,250             1d6
+  2         1,251-2,500         2d6
+  3         2,501-5,000         3d6
+  4         5,001-10,000        4d6
+  5         10,001-20,000       5d6
+  6         20,001-42,500       6d6
+  7         42,501-70,000       7d6
+  8         70,001-110,000      8d6
+  9         110,000-160,000     9d6
+ 10         160,001-220,000     10d6
+
+Each level after 10th requires 220,000 experience points and the
+character gains 2 hit points.
+
+
+                                               Number of
+PALADIN                                      Clerical Spells
+
+Level   Experience             Hit Dice       1   2   3   4
+------------------------------------------------------------
+  1     0-2,750                 1d10          -   -   -   -
+  2     2,751-5,500             2d10          -   -   -   -
+  3     5,501-12,000            3d10          -   -   -   -
+  4     12,001-24,000           4d10          -   -   -   -
+  5     24,001-45,000           5d10          -   -   -   -
+  6     45,001-95,000           6d10          -   -   -   -
+  7     95,001-175,000          7d10          -   -   -   -
+  8     175,001-350,000         8d10          -   -   -   -
+  9     350,001-700,000         9d10          1   -   -   -
+ 10     700,001-1,050,000       9d10+3        2   -   -   -
+ 11     1,050,001-1,400,000     9d10+6        2   1   -   -
+ 12     1,400,001-1,750,000     9d10+9        2   2   -   -
+ 13     1,750,001-2,100,000     9d10+12       2   2   1   -
+ 14     2,100,001-2,450,000     9d10+15       3   2   1   -
+ 15     2,450,001-2,800,000     9d10+18       3   2   1   1
+ 16     2,800,001-3,150,000     9d10+21       3   3   1   1
+ 17     3,150,001-3,500,000     9d10+24       3   3   2   1
+ 18     3,500,001-3,850,000     9d10+27       3   3   3   1
+ 19     3,850,001-4,200,000     9d10+30       3   3   3   2
+ 20     4,200,001-4,550,000     9d10+33       3   3   3   3
+
+Each level after 20th requires 350,000 experience points and the
+character gains 3 hit points.
+
+
+                                         Number of Spells Per Level
+RANGER                                        Druid    Magic-User
+
+Level   Experience            Hit Dice       1  2  3     1  2
+---------------------------------------------------------------
+ 1      0-2,250                2d8           -  -  -     -  -
+ 2      2,251-4,500            3d8           -  -  -     -  -
+ 3      4,501-10,000           4d8           -  -  -     -  -
+ 4      10,001-20,000          5d8           -  -  -     -  -
+ 5      20,001-40,000          6d8           -  -  -     -  -
+ 6      40,001-90,000          7d8           -  -  -     -  -
+ 7      90,001-150,000         8d8           -  -  -     -  -
+ 8      150,001-225,000        9d8           1  -  -     -  -
+ 9      225,001-325,000        10d8          1  -  -     1  -
+ 10     325,001-650,000        11d8          2  -  -     1  -
+ 11     650,001-975,000        11d8+2        2  -  -     2  -
+ 12     975,001-1,300,000      11d8+4        2  1  -     2  -
+ 13     1,300,001-1,625,000    11d8+6        2  1  -     2  1
+ 14     1,625,001-1,950,000    11d8+8        2  2  -     2  1
+ 15     1,950,001-2,275,000    11d8+10       2  2  -     2  2
+ 16     2,275,001-2,600,000    11d8+12       2  2  1     2  2
+ 17     2,600,001-2,925,000    11d8+14       2  2  2     2  2
+
+Each level after 17th requires 325,000 experience points and the
+character gains 2 hit points.
+
+
+KNIGHT OF THE CROWN
+
+Level   Experience            Hit Dice
+---------------------------------------
+ 1      2,500-4,999            2d10
+ 2      5,000-9,999            3d10
+ 3      10,000-18,499          4d10
+ 4      18,500-36,999          5d10
+ 5      37,000-84,999          6d10
+ 6      85,000-139,999         7d10
+ 7      140,000-219,999        8d10
+ 8      220,000-299,999        9d10
+ 9      300,000-599,999        10d10
+ 10     600,000-899,999        10d10+2
+ 11     900,000-1,199,999      10d10+4
+ 12     1,200,000-1,499,999    10d10+6
+ 13     1,500,000-1,799,999    10d10+8
+ 14     1,800,000-2,099,999    10d10+10
+ 15     2,100,000-2,399,999    10d10+12
+ 16     2,400,000-2,699,999    10d10+14
+ 17     2,700,000-2,999,999    10d10+16
+ 18     3,000,000+             10d10+18
+
+
+KNIGHT OF THE SWORD                        Number of Clerical Spells
+                                                   Per Level
+Level   Experience            Hit Dice     1   2   3   4   5   6   7
+---------------------------------------------------------------------
+ 3      12,000-23,999          4d10        -   -   -   -   -   -   -
+ 4      24,000-44,999          5d10        -   -   -   -   -   -   -
+ 5      45,000-94,999          6d10        -   -   -   -   -   -   -
+ 6      95,000-174,999         7d10        1   -   -   -   -   -   -
+ 7      175,000-349,999        8d10        2   -   -   -   -   -   -
+ 8      350,000-699,999        9d10        2   1   -   -   -   -   -
+ 9      700,000-1,049,999      10d10       3   2   -   -   -   -   -
+ 10     1,050,000-1,399,999    10d10+2     4   2   -   -   -   -   -
+ 11     1,400,000-1,749,999    10d10+4     4   2   1   -   -   -   -
+ 12     1,750,000-2,099,999    10d10+6     5   3   1   1   -   -   -
+ 13     2,100,000-2,449,999    10d10+8     6   4   1   1   1   -   -
+ 14     2,450,000-2,799,999    10d10+10    7   5   2   1   1   1   -
+ 15     2,800,000-3,149,999    10d10+12    8   6   3   2   1   1   1
+ 16     3,150,000-3,499,999    10d10+14    9   7   3   2   2   1   1
+ 17     3,500,000-3,749,999    10d10+16    9   8   4   3   3   2   1
+ 18     4,850,000+             10d10+18    9   9   5   4   3   2   1
+
+
+KNIGHT OF THE ROSE                         Number of Clerical Spells
+                                                   Per Level
+Level   Experience            Hit Dice     1   2   3   4   5   6   7
+---------------------------------------------------------------------
+ 4      27,000-59,999          5d10        -   -   -   -   -   -   -
+ 5      60,000-124,999         6d10        -   -   -   -   -   -   -
+ 6      125,000-199,999        7d10        1   -   -   -   -   -   -
+ 7      200,000-424,999        8d10        2   -   -   -   -   -   -
+ 8      425,000-799,999        9d10        2   1   -   -   -   -   -
+ 9      800,000-1,499,999      10d10       3   2   -   -   -   -   -
+ 10     1,500,000-1,999,999    10d10+2     4   2   -   -   -   -   -
+ 11     2,000,000-2,499,999    10d10+4     4   2   1   -   -   -   -
+ 12     2,500,000-2,999,999    10d10+6     5   3   1   1   -   -   -
+ 13     3,000,000-3,499,999    10d10+8     6   4   1   1   1   -   -
+ 14     3,500,000-3,999,999    10d10+10    7   5   2   1   1   1   -
+ 15     4,000,000-4,499,999    10d10+12    8   6   3   2   1   1   1
+ 16     4,500,000-4,999,999    10d10+14    9   7   3   2   2   1   1
+ 17     5,000,000-5,499,999    10d10+16    9   8   4   3   3   2   1
+ 18     5,500,000-5,999,999    10d10+18    9   9   5   4   3   2   1
+
+Each level after 18th requires 500,000 experience points and the
+character gains 2 hit points.
+
+
+WHITE ROBE MAGE
+
+Level    Experience            Hit Dice
+----------------------------------------
+ 1       2,500-4,999           1d4
+ 2       5,000-9,999           2d4
+ 3       10,000-19,999         3d4
+ 4       20,000-37,999         4d4
+ 5       38,999-54,999         5d4
+ 6       55,000-99,999         6d4
+ 7       100,000-199,999       7d4
+ 8       200,000-399,999       8d4
+ 9       400,000-599,999       9d4
+ 10      600,000-799,999       10d4
+ 11      800,000-999,999       11d4
+
+Each level after 11th requires 250,000 experience points and the
+character gains 1 hit point.
+
+
+SPELLS PER LEVEL FOR WHITE ROBE MAGES
+
+Level   1   2   3   4   5   6   7   8   9
+-------------------------------------------
+ 1      1   -   -   -   -   -   -   -   -
+ 2      2   -   -   -   -   -   -   -   -
+ 3      2   1   -   -   -   -   -   -   -
+ 4      3   2   -   -   -   -   -   -   -
+ 5      4   2   1   -   -   -   -   -   -
+ 6      4   2   2   -   -   -   -   -   -
+ 7      4   3   2   1   -   -   -   -   -
+ 8      4   3   3   2   -   -   -   -   -
+ 9      4   3   3   2   1(1)-   -   -   -
+ 10     4   4   3   2   2   1(2)-   -   -
+ 11     4   4   4   3   3   2   1(3)-   -
+ 12     4   4   4   4   4   3   2   1(4)-
+ 13     5   5   5   4   4   3   2   1   -
+ 14     5   5   5   4   4   3   2   1   -
+ 15     5   5   5   5   5   3   2   2   1(5)
+ 16     5   5   5   5   5   4   2   2   1
+ 17     5   5   5   5   5   4   3   3   2
+ 18     5   5   5   5   5   4   3   3   3
+ 19     5   5   5   5   5   5   3   3   3
+ 20     5   5   5   5   5   5   4   3   3
+ 21     5   5   5   5   5   5   4   4   3
+ 22     5   5   5   5   5   5   5   4   3
+ 23     5   5   5   5   5   5   5   5   3
+ 24     5   5   5   5   5   5   5   5   4
+ 25     5   5   5   5   5   5   5   5   5
+ 26     6   6   6   6   5   5   5   5   5
+ 27     6   6   6   6   6   6   6   5   5
+ 28     6   6   6   6   6   6   6   6   6
+ 29     7   7   7   7   6   6   6   6   6
+
+ 1 - Usable only with 10+ intelligence.
+ 2 - Usable only with 12+ intelligence.
+ 3 - Usable only with 14+ intelligence.
+ 4 - Usable only with 16+ intelligence.
+ 5 - Usable only with 18+ intelligence.
+
+
+RED ROBE MAGE
+
+Level    Experience            Hit Dice
+----------------------------------------
+ 1       2,500-4,999           1d4
+ 2       5,000-9,999           2d4
+ 3       10,000-17,999         3d4
+ 4       18,000-35,999         4d4
+ 5       36,000-49,999         5d4
+ 6       50,000-89,999         6d4
+ 7       90,000-179,999        7d4
+ 8       180,000-349,999       8d4
+ 9       350,000-499,999       9d4
+ 10      500,000-699,999       10d4
+ 11      700,000-899,999       11d4
+
+Each level after 11th requires 200,000 experience points and the
+character gains 1 hit point.
+
+
+
+SPELLS PER LEVEL FOR RED ROBE MAGES
+
+Level   1   2   3   4   5   6   7   8   9
+-------------------------------------------
+ 1      1   -   -   -   -   -   -   -   -
+ 2      2   -   -   -   -   -   -   -   -
+ 3      2   1   -   -   -   -   -   -   -
+ 4      3   2   1   -   -   -   -   -   -
+ 5      4   3   1   -   -   -   -   -   -
+ 6      4   3   2   -   -   -   -   -   -
+ 7      4   3   2   1   -   -   -   -   -
+ 8      4   3   3   2   -   -   -   -   -
+ 9      4   3   3   2   1(1)-   -   -   -
+ 10     5   4   3   2   2   1(2)-   -   -
+ 11     5   4   4   3   3   2   -   -   -
+ 12     5   4   4   4   4   2   1(3)-   -
+ 13     5   5   5   4   4   2   1   1(4)-
+ 14     5   5   5   4   4   2   2   1   -
+ 15     5   5   5   4   5   2   2   1   1(5)
+ 16     6   5   5   5   5   3   2   1   1
+ 17     6   5   5   5   5   3   3   2   1
+ 18     6   6   5   5   5   3   3   2   2
+ 19     6   6   5   5   5   3   3   3   2
+ 20     6   6   5   5   5   4   3   3   2
+ 21     6   6   5   5   5   4   4   3   2
+ 22     6   6   5   5   5   4   4   4   2
+ 23     6   6   6   5   5   5   4   4   2
+ 24     7   6   6   5   5   5   5   4   2
+ 25     7   7   6   6   5   5   5   4   2
+ 26     7   7   6   6   6   6   5   4   3
+ 27     7   7   6   6   6   6   5   5   4
+ 28     8   7   7   6   6   6   6   5   5
+ 29     8   8   8   7   6   6   6   6   5
+
+ 1 - Usable only with 10+ intelligence.
+ 2 - Usable only with 12+ intelligence.
+ 3 - Usable only with 14+ intelligence.
+ 4 - Usable only with 16+ intelligence.
+ 5 - Usable only with 18+ intelligence.
+
